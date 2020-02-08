@@ -1,0 +1,2926 @@
+{
+  "reloadDex" : false,
+  "serebiiDex" : [ {
+    "id" : 1,
+    "name" : "Grookey",
+    "url" : "/pokedex-swsh/grookey/"
+  }, {
+    "id" : 2,
+    "name" : "Thwackey",
+    "url" : "/pokedex-swsh/thwackey/"
+  }, {
+    "id" : 3,
+    "name" : "Rillaboom",
+    "url" : "/pokedex-swsh/rillaboom/"
+  }, {
+    "id" : 4,
+    "name" : "Scorbunny",
+    "url" : "/pokedex-swsh/scorbunny/"
+  }, {
+    "id" : 5,
+    "name" : "Raboot",
+    "url" : "/pokedex-swsh/raboot/"
+  }, {
+    "id" : 6,
+    "name" : "Cinderace",
+    "url" : "/pokedex-swsh/cinderace/"
+  }, {
+    "id" : 7,
+    "name" : "Sobble",
+    "url" : "/pokedex-swsh/sobble/"
+  }, {
+    "id" : 8,
+    "name" : "Drizzile",
+    "url" : "/pokedex-swsh/drizzile/"
+  }, {
+    "id" : 9,
+    "name" : "Inteleon",
+    "url" : "/pokedex-swsh/inteleon/"
+  }, {
+    "id" : 10,
+    "name" : "Blipbug",
+    "url" : "/pokedex-swsh/blipbug/"
+  }, {
+    "id" : 11,
+    "name" : "Dottler",
+    "url" : "/pokedex-swsh/dottler/"
+  }, {
+    "id" : 12,
+    "name" : "Orbeetle",
+    "url" : "/pokedex-swsh/orbeetle/"
+  }, {
+    "id" : 13,
+    "name" : "Caterpie",
+    "url" : "/pokedex-swsh/caterpie/"
+  }, {
+    "id" : 14,
+    "name" : "Metapod",
+    "url" : "/pokedex-swsh/metapod/"
+  }, {
+    "id" : 15,
+    "name" : "Butterfree",
+    "url" : "/pokedex-swsh/butterfree/"
+  }, {
+    "id" : 16,
+    "name" : "Grubbin",
+    "url" : "/pokedex-swsh/grubbin/"
+  }, {
+    "id" : 17,
+    "name" : "Charjabug",
+    "url" : "/pokedex-swsh/charjabug/"
+  }, {
+    "id" : 18,
+    "name" : "Vikavolt",
+    "url" : "/pokedex-swsh/vikavolt/"
+  }, {
+    "id" : 19,
+    "name" : "Hoothoot",
+    "url" : "/pokedex-swsh/hoothoot/"
+  }, {
+    "id" : 20,
+    "name" : "Noctowl",
+    "url" : "/pokedex-swsh/noctowl/"
+  }, {
+    "id" : 21,
+    "name" : "Rookidee",
+    "url" : "/pokedex-swsh/rookidee/"
+  }, {
+    "id" : 22,
+    "name" : "Corvisquire",
+    "url" : "/pokedex-swsh/corvisquire/"
+  }, {
+    "id" : 23,
+    "name" : "Corviknight",
+    "url" : "/pokedex-swsh/corviknight/"
+  }, {
+    "id" : 24,
+    "name" : "Skwovet",
+    "url" : "/pokedex-swsh/skwovet/"
+  }, {
+    "id" : 25,
+    "name" : "Greedent",
+    "url" : "/pokedex-swsh/greedent/"
+  }, {
+    "id" : 26,
+    "name" : "Pidove",
+    "url" : "/pokedex-swsh/pidove/"
+  }, {
+    "id" : 27,
+    "name" : "Tranquill",
+    "url" : "/pokedex-swsh/tranquill/"
+  }, {
+    "id" : 28,
+    "name" : "Unfezant",
+    "url" : "/pokedex-swsh/unfezant/"
+  }, {
+    "id" : 29,
+    "name" : "Nickit",
+    "url" : "/pokedex-swsh/nickit/"
+  }, {
+    "id" : 30,
+    "name" : "Thievul",
+    "url" : "/pokedex-swsh/thievul/"
+  }, {
+    "id" : 31,
+    "name" : "Zigzagoon",
+    "url" : "/pokedex-swsh/zigzagoon/"
+  }, {
+    "id" : 32,
+    "name" : "Linoone",
+    "url" : "/pokedex-swsh/linoone/"
+  }, {
+    "id" : 33,
+    "name" : "Obstagoon",
+    "url" : "/pokedex-swsh/obstagoon/"
+  }, {
+    "id" : 34,
+    "name" : "Wooloo",
+    "url" : "/pokedex-swsh/wooloo/"
+  }, {
+    "id" : 35,
+    "name" : "Dubwool",
+    "url" : "/pokedex-swsh/dubwool/"
+  }, {
+    "id" : 36,
+    "name" : "Lotad",
+    "url" : "/pokedex-swsh/lotad/"
+  }, {
+    "id" : 37,
+    "name" : "Lombre",
+    "url" : "/pokedex-swsh/lombre/"
+  }, {
+    "id" : 38,
+    "name" : "Ludicolo",
+    "url" : "/pokedex-swsh/ludicolo/"
+  }, {
+    "id" : 39,
+    "name" : "Seedot",
+    "url" : "/pokedex-swsh/seedot/"
+  }, {
+    "id" : 40,
+    "name" : "Nuzleaf",
+    "url" : "/pokedex-swsh/nuzleaf/"
+  }, {
+    "id" : 41,
+    "name" : "Shiftry",
+    "url" : "/pokedex-swsh/shiftry/"
+  }, {
+    "id" : 42,
+    "name" : "Chewtle",
+    "url" : "/pokedex-swsh/chewtle/"
+  }, {
+    "id" : 43,
+    "name" : "Drednaw",
+    "url" : "/pokedex-swsh/drednaw/"
+  }, {
+    "id" : 44,
+    "name" : "Purrloin",
+    "url" : "/pokedex-swsh/purrloin/"
+  }, {
+    "id" : 45,
+    "name" : "Liepard",
+    "url" : "/pokedex-swsh/liepard/"
+  }, {
+    "id" : 46,
+    "name" : "Yamper",
+    "url" : "/pokedex-swsh/yamper/"
+  }, {
+    "id" : 47,
+    "name" : "Boltund",
+    "url" : "/pokedex-swsh/boltund/"
+  }, {
+    "id" : 48,
+    "name" : "Bunnelby",
+    "url" : "/pokedex-swsh/bunnelby/"
+  }, {
+    "id" : 49,
+    "name" : "Diggersby",
+    "url" : "/pokedex-swsh/diggersby/"
+  }, {
+    "id" : 50,
+    "name" : "Minccino",
+    "url" : "/pokedex-swsh/minccino/"
+  }, {
+    "id" : 51,
+    "name" : "Cinccino",
+    "url" : "/pokedex-swsh/cinccino/"
+  }, {
+    "id" : 52,
+    "name" : "Bounsweet",
+    "url" : "/pokedex-swsh/bounsweet/"
+  }, {
+    "id" : 53,
+    "name" : "Steenee",
+    "url" : "/pokedex-swsh/steenee/"
+  }, {
+    "id" : 54,
+    "name" : "Tsareena",
+    "url" : "/pokedex-swsh/tsareena/"
+  }, {
+    "id" : 55,
+    "name" : "Oddish",
+    "url" : "/pokedex-swsh/oddish/"
+  }, {
+    "id" : 56,
+    "name" : "Gloom",
+    "url" : "/pokedex-swsh/gloom/"
+  }, {
+    "id" : 57,
+    "name" : "Vileplume",
+    "url" : "/pokedex-swsh/vileplume/"
+  }, {
+    "id" : 58,
+    "name" : "Bellossom",
+    "url" : "/pokedex-swsh/bellossom/"
+  }, {
+    "id" : 59,
+    "name" : "Budew",
+    "url" : "/pokedex-swsh/budew/"
+  }, {
+    "id" : 60,
+    "name" : "Roselia",
+    "url" : "/pokedex-swsh/roselia/"
+  }, {
+    "id" : 61,
+    "name" : "Roserade",
+    "url" : "/pokedex-swsh/roserade/"
+  }, {
+    "id" : 62,
+    "name" : "Wingull",
+    "url" : "/pokedex-swsh/wingull/"
+  }, {
+    "id" : 63,
+    "name" : "Pelipper",
+    "url" : "/pokedex-swsh/pelipper/"
+  }, {
+    "id" : 64,
+    "name" : "Joltik",
+    "url" : "/pokedex-swsh/joltik/"
+  }, {
+    "id" : 65,
+    "name" : "Galvantula",
+    "url" : "/pokedex-swsh/galvantula/"
+  }, {
+    "id" : 66,
+    "name" : "Electrike",
+    "url" : "/pokedex-swsh/electrike/"
+  }, {
+    "id" : 67,
+    "name" : "Manectric",
+    "url" : "/pokedex-swsh/manectric/"
+  }, {
+    "id" : 68,
+    "name" : "Vulpix",
+    "url" : "/pokedex-swsh/vulpix/"
+  }, {
+    "id" : 69,
+    "name" : "Ninetales",
+    "url" : "/pokedex-swsh/ninetales/"
+  }, {
+    "id" : 70,
+    "name" : "Growlithe",
+    "url" : "/pokedex-swsh/growlithe/"
+  }, {
+    "id" : 71,
+    "name" : "Arcanine",
+    "url" : "/pokedex-swsh/arcanine/"
+  }, {
+    "id" : 72,
+    "name" : "Vanillite",
+    "url" : "/pokedex-swsh/vanillite/"
+  }, {
+    "id" : 73,
+    "name" : "Vanillish",
+    "url" : "/pokedex-swsh/vanillish/"
+  }, {
+    "id" : 74,
+    "name" : "Vanilluxe",
+    "url" : "/pokedex-swsh/vanilluxe/"
+  }, {
+    "id" : 75,
+    "name" : "Swinub",
+    "url" : "/pokedex-swsh/swinub/"
+  }, {
+    "id" : 76,
+    "name" : "Piloswine",
+    "url" : "/pokedex-swsh/piloswine/"
+  }, {
+    "id" : 77,
+    "name" : "Mamoswine",
+    "url" : "/pokedex-swsh/mamoswine/"
+  }, {
+    "id" : 78,
+    "name" : "Delibird",
+    "url" : "/pokedex-swsh/delibird/"
+  }, {
+    "id" : 79,
+    "name" : "Snorunt",
+    "url" : "/pokedex-swsh/snorunt/"
+  }, {
+    "id" : 80,
+    "name" : "Glalie",
+    "url" : "/pokedex-swsh/glalie/"
+  }, {
+    "id" : 81,
+    "name" : "Froslass",
+    "url" : "/pokedex-swsh/froslass/"
+  }, {
+    "id" : 82,
+    "name" : "Baltoy",
+    "url" : "/pokedex-swsh/baltoy/"
+  }, {
+    "id" : 83,
+    "name" : "Claydol",
+    "url" : "/pokedex-swsh/claydol/"
+  }, {
+    "id" : 84,
+    "name" : "Mudbray",
+    "url" : "/pokedex-swsh/mudbray/"
+  }, {
+    "id" : 85,
+    "name" : "Mudsdale",
+    "url" : "/pokedex-swsh/mudsdale/"
+  }, {
+    "id" : 86,
+    "name" : "Dwebble",
+    "url" : "/pokedex-swsh/dwebble/"
+  }, {
+    "id" : 87,
+    "name" : "Crustle",
+    "url" : "/pokedex-swsh/crustle/"
+  }, {
+    "id" : 88,
+    "name" : "Golett",
+    "url" : "/pokedex-swsh/golett/"
+  }, {
+    "id" : 89,
+    "name" : "Golurk",
+    "url" : "/pokedex-swsh/golurk/"
+  }, {
+    "id" : 90,
+    "name" : "Munna",
+    "url" : "/pokedex-swsh/munna/"
+  }, {
+    "id" : 91,
+    "name" : "Musharna",
+    "url" : "/pokedex-swsh/musharna/"
+  }, {
+    "id" : 92,
+    "name" : "Natu",
+    "url" : "/pokedex-swsh/natu/"
+  }, {
+    "id" : 93,
+    "name" : "Xatu",
+    "url" : "/pokedex-swsh/xatu/"
+  }, {
+    "id" : 94,
+    "name" : "Stufful",
+    "url" : "/pokedex-swsh/stufful/"
+  }, {
+    "id" : 95,
+    "name" : "Bewear",
+    "url" : "/pokedex-swsh/bewear/"
+  }, {
+    "id" : 96,
+    "name" : "Snover",
+    "url" : "/pokedex-swsh/snover/"
+  }, {
+    "id" : 97,
+    "name" : "Abomasnow",
+    "url" : "/pokedex-swsh/abomasnow/"
+  }, {
+    "id" : 98,
+    "name" : "Krabby",
+    "url" : "/pokedex-swsh/krabby/"
+  }, {
+    "id" : 99,
+    "name" : "Kingler",
+    "url" : "/pokedex-swsh/kingler/"
+  }, {
+    "id" : 100,
+    "name" : "Wooper",
+    "url" : "/pokedex-swsh/wooper/"
+  }, {
+    "id" : 101,
+    "name" : "Quagsire",
+    "url" : "/pokedex-swsh/quagsire/"
+  }, {
+    "id" : 102,
+    "name" : "Corphish",
+    "url" : "/pokedex-swsh/corphish/"
+  }, {
+    "id" : 103,
+    "name" : "Crawdaunt",
+    "url" : "/pokedex-swsh/crawdaunt/"
+  }, {
+    "id" : 104,
+    "name" : "Nincada",
+    "url" : "/pokedex-swsh/nincada/"
+  }, {
+    "id" : 105,
+    "name" : "Ninjask",
+    "url" : "/pokedex-swsh/ninjask/"
+  }, {
+    "id" : 106,
+    "name" : "Shedinja",
+    "url" : "/pokedex-swsh/shedinja/"
+  }, {
+    "id" : 107,
+    "name" : "Tyrogue",
+    "url" : "/pokedex-swsh/tyrogue/"
+  }, {
+    "id" : 108,
+    "name" : "Hitmonlee",
+    "url" : "/pokedex-swsh/hitmonlee/"
+  }, {
+    "id" : 109,
+    "name" : "Hitmonchan",
+    "url" : "/pokedex-swsh/hitmonchan/"
+  }, {
+    "id" : 110,
+    "name" : "Hitmontop",
+    "url" : "/pokedex-swsh/hitmontop/"
+  }, {
+    "id" : 111,
+    "name" : "Pancham",
+    "url" : "/pokedex-swsh/pancham/"
+  }, {
+    "id" : 112,
+    "name" : "Pangoro",
+    "url" : "/pokedex-swsh/pangoro/"
+  }, {
+    "id" : 113,
+    "name" : "Klink",
+    "url" : "/pokedex-swsh/klink/"
+  }, {
+    "id" : 114,
+    "name" : "Klang",
+    "url" : "/pokedex-swsh/klang/"
+  }, {
+    "id" : 115,
+    "name" : "Klinklang",
+    "url" : "/pokedex-swsh/klinklang/"
+  }, {
+    "id" : 116,
+    "name" : "Combee",
+    "url" : "/pokedex-swsh/combee/"
+  }, {
+    "id" : 117,
+    "name" : "Vespiquen",
+    "url" : "/pokedex-swsh/vespiquen/"
+  }, {
+    "id" : 118,
+    "name" : "Bronzor",
+    "url" : "/pokedex-swsh/bronzor/"
+  }, {
+    "id" : 119,
+    "name" : "Bronzong",
+    "url" : "/pokedex-swsh/bronzong/"
+  }, {
+    "id" : 120,
+    "name" : "Ralts",
+    "url" : "/pokedex-swsh/ralts/"
+  }, {
+    "id" : 121,
+    "name" : "Kirlia",
+    "url" : "/pokedex-swsh/kirlia/"
+  }, {
+    "id" : 122,
+    "name" : "Gardevoir",
+    "url" : "/pokedex-swsh/gardevoir/"
+  }, {
+    "id" : 123,
+    "name" : "Gallade",
+    "url" : "/pokedex-swsh/gallade/"
+  }, {
+    "id" : 124,
+    "name" : "Drifloon",
+    "url" : "/pokedex-swsh/drifloon/"
+  }, {
+    "id" : 125,
+    "name" : "Drifblim",
+    "url" : "/pokedex-swsh/drifblim/"
+  }, {
+    "id" : 126,
+    "name" : "Gossifleur",
+    "url" : "/pokedex-swsh/gossifleur/"
+  }, {
+    "id" : 127,
+    "name" : "Eldegoss",
+    "url" : "/pokedex-swsh/eldegoss/"
+  }, {
+    "id" : 128,
+    "name" : "Cherubi",
+    "url" : "/pokedex-swsh/cherubi/"
+  }, {
+    "id" : 129,
+    "name" : "Cherrim",
+    "url" : "/pokedex-swsh/cherrim/"
+  }, {
+    "id" : 130,
+    "name" : "Stunky",
+    "url" : "/pokedex-swsh/stunky/"
+  }, {
+    "id" : 131,
+    "name" : "Skuntank",
+    "url" : "/pokedex-swsh/skuntank/"
+  }, {
+    "id" : 132,
+    "name" : "Tympole",
+    "url" : "/pokedex-swsh/tympole/"
+  }, {
+    "id" : 133,
+    "name" : "Palpitoad",
+    "url" : "/pokedex-swsh/palpitoad/"
+  }, {
+    "id" : 134,
+    "name" : "Seismitoad",
+    "url" : "/pokedex-swsh/seismitoad/"
+  }, {
+    "id" : 135,
+    "name" : "Duskull",
+    "url" : "/pokedex-swsh/duskull/"
+  }, {
+    "id" : 136,
+    "name" : "Dusclops",
+    "url" : "/pokedex-swsh/dusclops/"
+  }, {
+    "id" : 137,
+    "name" : "Dusknoir",
+    "url" : "/pokedex-swsh/dusknoir/"
+  }, {
+    "id" : 138,
+    "name" : "Machop",
+    "url" : "/pokedex-swsh/machop/"
+  }, {
+    "id" : 139,
+    "name" : "Machoke",
+    "url" : "/pokedex-swsh/machoke/"
+  }, {
+    "id" : 140,
+    "name" : "Machamp",
+    "url" : "/pokedex-swsh/machamp/"
+  }, {
+    "id" : 141,
+    "name" : "Gastly",
+    "url" : "/pokedex-swsh/gastly/"
+  }, {
+    "id" : 142,
+    "name" : "Haunter",
+    "url" : "/pokedex-swsh/haunter/"
+  }, {
+    "id" : 143,
+    "name" : "Gengar",
+    "url" : "/pokedex-swsh/gengar/"
+  }, {
+    "id" : 144,
+    "name" : "Magikarp",
+    "url" : "/pokedex-swsh/magikarp/"
+  }, {
+    "id" : 145,
+    "name" : "Gyarados",
+    "url" : "/pokedex-swsh/gyarados/"
+  }, {
+    "id" : 146,
+    "name" : "Goldeen",
+    "url" : "/pokedex-swsh/goldeen/"
+  }, {
+    "id" : 147,
+    "name" : "Seaking",
+    "url" : "/pokedex-swsh/seaking/"
+  }, {
+    "id" : 148,
+    "name" : "Remoraid",
+    "url" : "/pokedex-swsh/remoraid/"
+  }, {
+    "id" : 149,
+    "name" : "Octillery",
+    "url" : "/pokedex-swsh/octillery/"
+  }, {
+    "id" : 150,
+    "name" : "Shellder",
+    "url" : "/pokedex-swsh/shellder/"
+  }, {
+    "id" : 151,
+    "name" : "Cloyster",
+    "url" : "/pokedex-swsh/cloyster/"
+  }, {
+    "id" : 152,
+    "name" : "Feebas",
+    "url" : "/pokedex-swsh/feebas/"
+  }, {
+    "id" : 153,
+    "name" : "Milotic",
+    "url" : "/pokedex-swsh/milotic/"
+  }, {
+    "id" : 154,
+    "name" : "Basculin",
+    "url" : "/pokedex-swsh/basculin/"
+  }, {
+    "id" : 155,
+    "name" : "Wishiwashi",
+    "url" : "/pokedex-swsh/wishiwashi/"
+  }, {
+    "id" : 156,
+    "name" : "Pyukumuku",
+    "url" : "/pokedex-swsh/pyukumuku/"
+  }, {
+    "id" : 157,
+    "name" : "Trubbish",
+    "url" : "/pokedex-swsh/trubbish/"
+  }, {
+    "id" : 158,
+    "name" : "Garbodor",
+    "url" : "/pokedex-swsh/garbodor/"
+  }, {
+    "id" : 159,
+    "name" : "Sizzlipede",
+    "url" : "/pokedex-swsh/sizzlipede/"
+  }, {
+    "id" : 160,
+    "name" : "Centiskorch",
+    "url" : "/pokedex-swsh/centiskorch/"
+  }, {
+    "id" : 161,
+    "name" : "Rolycoly",
+    "url" : "/pokedex-swsh/rolycoly/"
+  }, {
+    "id" : 162,
+    "name" : "Carkol",
+    "url" : "/pokedex-swsh/carkol/"
+  }, {
+    "id" : 163,
+    "name" : "Coalossal",
+    "url" : "/pokedex-swsh/coalossal/"
+  }, {
+    "id" : 164,
+    "name" : "Diglett",
+    "url" : "/pokedex-swsh/diglett/"
+  }, {
+    "id" : 165,
+    "name" : "Dugtrio",
+    "url" : "/pokedex-swsh/dugtrio/"
+  }, {
+    "id" : 166,
+    "name" : "Drilbur",
+    "url" : "/pokedex-swsh/drilbur/"
+  }, {
+    "id" : 167,
+    "name" : "Excadrill",
+    "url" : "/pokedex-swsh/excadrill/"
+  }, {
+    "id" : 168,
+    "name" : "Roggenrola",
+    "url" : "/pokedex-swsh/roggenrola/"
+  }, {
+    "id" : 169,
+    "name" : "Boldore",
+    "url" : "/pokedex-swsh/boldore/"
+  }, {
+    "id" : 170,
+    "name" : "Gigalith",
+    "url" : "/pokedex-swsh/gigalith/"
+  }, {
+    "id" : 171,
+    "name" : "Timburr",
+    "url" : "/pokedex-swsh/timburr/"
+  }, {
+    "id" : 172,
+    "name" : "Gurdurr",
+    "url" : "/pokedex-swsh/gurdurr/"
+  }, {
+    "id" : 173,
+    "name" : "Conkeldurr",
+    "url" : "/pokedex-swsh/conkeldurr/"
+  }, {
+    "id" : 174,
+    "name" : "Woobat",
+    "url" : "/pokedex-swsh/woobat/"
+  }, {
+    "id" : 175,
+    "name" : "Swoobat",
+    "url" : "/pokedex-swsh/swoobat/"
+  }, {
+    "id" : 176,
+    "name" : "Noibat",
+    "url" : "/pokedex-swsh/noibat/"
+  }, {
+    "id" : 177,
+    "name" : "Noivern",
+    "url" : "/pokedex-swsh/noivern/"
+  }, {
+    "id" : 178,
+    "name" : "Onix",
+    "url" : "/pokedex-swsh/onix/"
+  }, {
+    "id" : 179,
+    "name" : "Steelix",
+    "url" : "/pokedex-swsh/steelix/"
+  }, {
+    "id" : 180,
+    "name" : "Arrokuda",
+    "url" : "/pokedex-swsh/arrokuda/"
+  }, {
+    "id" : 181,
+    "name" : "Barraskewda",
+    "url" : "/pokedex-swsh/barraskewda/"
+  }, {
+    "id" : 182,
+    "name" : "Meowth",
+    "url" : "/pokedex-swsh/meowth/"
+  }, {
+    "id" : 183,
+    "name" : "Perrserker",
+    "url" : "/pokedex-swsh/perrserker/"
+  }, {
+    "id" : 184,
+    "name" : "Persian",
+    "url" : "/pokedex-swsh/persian/"
+  }, {
+    "id" : 185,
+    "name" : "Milcery",
+    "url" : "/pokedex-swsh/milcery/"
+  }, {
+    "id" : 186,
+    "name" : "Alcremie",
+    "url" : "/pokedex-swsh/alcremie/"
+  }, {
+    "id" : 187,
+    "name" : "Cutiefly",
+    "url" : "/pokedex-swsh/cutiefly/"
+  }, {
+    "id" : 188,
+    "name" : "Ribombee",
+    "url" : "/pokedex-swsh/ribombee/"
+  }, {
+    "id" : 189,
+    "name" : "Ferroseed",
+    "url" : "/pokedex-swsh/ferroseed/"
+  }, {
+    "id" : 190,
+    "name" : "Ferrothorn",
+    "url" : "/pokedex-swsh/ferrothorn/"
+  }, {
+    "id" : 191,
+    "name" : "Pumpkaboo",
+    "url" : "/pokedex-swsh/pumpkaboo/"
+  }, {
+    "id" : 192,
+    "name" : "Gourgeist",
+    "url" : "/pokedex-swsh/gourgeist/"
+  }, {
+    "id" : 193,
+    "name" : "Pichu",
+    "url" : "/pokedex-swsh/pichu/"
+  }, {
+    "id" : 194,
+    "name" : "Pikachu",
+    "url" : "/pokedex-swsh/pikachu/"
+  }, {
+    "id" : 195,
+    "name" : "Raichu",
+    "url" : "/pokedex-swsh/raichu/"
+  }, {
+    "id" : 196,
+    "name" : "Eevee",
+    "url" : "/pokedex-swsh/eevee/"
+  }, {
+    "id" : 197,
+    "name" : "Vaporeon",
+    "url" : "/pokedex-swsh/vaporeon/"
+  }, {
+    "id" : 198,
+    "name" : "Jolteon",
+    "url" : "/pokedex-swsh/jolteon/"
+  }, {
+    "id" : 199,
+    "name" : "Flareon",
+    "url" : "/pokedex-swsh/flareon/"
+  }, {
+    "id" : 200,
+    "name" : "Espeon",
+    "url" : "/pokedex-swsh/espeon/"
+  }, {
+    "id" : 201,
+    "name" : "Umbreon",
+    "url" : "/pokedex-swsh/umbreon/"
+  }, {
+    "id" : 202,
+    "name" : "Leafeon",
+    "url" : "/pokedex-swsh/leafeon/"
+  }, {
+    "id" : 203,
+    "name" : "Glaceon",
+    "url" : "/pokedex-swsh/glaceon/"
+  }, {
+    "id" : 204,
+    "name" : "Sylveon",
+    "url" : "/pokedex-swsh/sylveon/"
+  }, {
+    "id" : 205,
+    "name" : "Applin",
+    "url" : "/pokedex-swsh/applin/"
+  }, {
+    "id" : 206,
+    "name" : "Flapple",
+    "url" : "/pokedex-swsh/flapple/"
+  }, {
+    "id" : 207,
+    "name" : "Appletun",
+    "url" : "/pokedex-swsh/appletun/"
+  }, {
+    "id" : 208,
+    "name" : "Espurr",
+    "url" : "/pokedex-swsh/espurr/"
+  }, {
+    "id" : 209,
+    "name" : "Meowstic",
+    "url" : "/pokedex-swsh/meowstic/"
+  }, {
+    "id" : 210,
+    "name" : "Swirlix",
+    "url" : "/pokedex-swsh/swirlix/"
+  }, {
+    "id" : 211,
+    "name" : "Slurpuff",
+    "url" : "/pokedex-swsh/slurpuff/"
+  }, {
+    "id" : 212,
+    "name" : "Spritzee",
+    "url" : "/pokedex-swsh/spritzee/"
+  }, {
+    "id" : 213,
+    "name" : "Aromatisse",
+    "url" : "/pokedex-swsh/aromatisse/"
+  }, {
+    "id" : 214,
+    "name" : "Dewpider",
+    "url" : "/pokedex-swsh/dewpider/"
+  }, {
+    "id" : 215,
+    "name" : "Araquanid",
+    "url" : "/pokedex-swsh/araquanid/"
+  }, {
+    "id" : 216,
+    "name" : "Wynaut",
+    "url" : "/pokedex-swsh/wynaut/"
+  }, {
+    "id" : 217,
+    "name" : "Wobbuffet",
+    "url" : "/pokedex-swsh/wobbuffet/"
+  }, {
+    "id" : 218,
+    "name" : "Farfetch'd",
+    "url" : "/pokedex-swsh/farfetch'd/"
+  }, {
+    "id" : 219,
+    "name" : "Sirfetch'd",
+    "url" : "/pokedex-swsh/sirfetch'd/"
+  }, {
+    "id" : 220,
+    "name" : "Chinchou",
+    "url" : "/pokedex-swsh/chinchou/"
+  }, {
+    "id" : 221,
+    "name" : "Lanturn",
+    "url" : "/pokedex-swsh/lanturn/"
+  }, {
+    "id" : 222,
+    "name" : "Croagunk",
+    "url" : "/pokedex-swsh/croagunk/"
+  }, {
+    "id" : 223,
+    "name" : "Toxicroak",
+    "url" : "/pokedex-swsh/toxicroak/"
+  }, {
+    "id" : 224,
+    "name" : "Scraggy",
+    "url" : "/pokedex-swsh/scraggy/"
+  }, {
+    "id" : 225,
+    "name" : "Scrafty",
+    "url" : "/pokedex-swsh/scrafty/"
+  }, {
+    "id" : 226,
+    "name" : "Stunfisk",
+    "url" : "/pokedex-swsh/stunfisk/"
+  }, {
+    "id" : 227,
+    "name" : "Shuckle",
+    "url" : "/pokedex-swsh/shuckle/"
+  }, {
+    "id" : 228,
+    "name" : "Barboach",
+    "url" : "/pokedex-swsh/barboach/"
+  }, {
+    "id" : 229,
+    "name" : "Whiscash",
+    "url" : "/pokedex-swsh/whiscash/"
+  }, {
+    "id" : 230,
+    "name" : "Shellos",
+    "url" : "/pokedex-swsh/shellos/"
+  }, {
+    "id" : 231,
+    "name" : "Gastrodon",
+    "url" : "/pokedex-swsh/gastrodon/"
+  }, {
+    "id" : 232,
+    "name" : "Wimpod",
+    "url" : "/pokedex-swsh/wimpod/"
+  }, {
+    "id" : 233,
+    "name" : "Golisopod",
+    "url" : "/pokedex-swsh/golisopod/"
+  }, {
+    "id" : 234,
+    "name" : "Binacle",
+    "url" : "/pokedex-swsh/binacle/"
+  }, {
+    "id" : 235,
+    "name" : "Barbaracle",
+    "url" : "/pokedex-swsh/barbaracle/"
+  }, {
+    "id" : 236,
+    "name" : "Corsola",
+    "url" : "/pokedex-swsh/corsola/"
+  }, {
+    "id" : 237,
+    "name" : "Cursola",
+    "url" : "/pokedex-swsh/cursola/"
+  }, {
+    "id" : 238,
+    "name" : "Impidimp",
+    "url" : "/pokedex-swsh/impidimp/"
+  }, {
+    "id" : 239,
+    "name" : "Morgrem",
+    "url" : "/pokedex-swsh/morgrem/"
+  }, {
+    "id" : 240,
+    "name" : "Grimmsnarl",
+    "url" : "/pokedex-swsh/grimmsnarl/"
+  }, {
+    "id" : 241,
+    "name" : "Hatenna",
+    "url" : "/pokedex-swsh/hatenna/"
+  }, {
+    "id" : 242,
+    "name" : "Hattrem",
+    "url" : "/pokedex-swsh/hattrem/"
+  }, {
+    "id" : 243,
+    "name" : "Hatterene",
+    "url" : "/pokedex-swsh/hatterene/"
+  }, {
+    "id" : 244,
+    "name" : "Salandit",
+    "url" : "/pokedex-swsh/salandit/"
+  }, {
+    "id" : 245,
+    "name" : "Salazzle",
+    "url" : "/pokedex-swsh/salazzle/"
+  }, {
+    "id" : 246,
+    "name" : "Pawniard",
+    "url" : "/pokedex-swsh/pawniard/"
+  }, {
+    "id" : 247,
+    "name" : "Bisharp",
+    "url" : "/pokedex-swsh/bisharp/"
+  }, {
+    "id" : 248,
+    "name" : "Throh",
+    "url" : "/pokedex-swsh/throh/"
+  }, {
+    "id" : 249,
+    "name" : "Sawk",
+    "url" : "/pokedex-swsh/sawk/"
+  }, {
+    "id" : 250,
+    "name" : "Koffing",
+    "url" : "/pokedex-swsh/koffing/"
+  }, {
+    "id" : 251,
+    "name" : "Weezing",
+    "url" : "/pokedex-swsh/weezing/"
+  }, {
+    "id" : 252,
+    "name" : "Bonsly",
+    "url" : "/pokedex-swsh/bonsly/"
+  }, {
+    "id" : 253,
+    "name" : "Sudowoodo",
+    "url" : "/pokedex-swsh/sudowoodo/"
+  }, {
+    "id" : 254,
+    "name" : "Cleffa",
+    "url" : "/pokedex-swsh/cleffa/"
+  }, {
+    "id" : 255,
+    "name" : "Clefairy",
+    "url" : "/pokedex-swsh/clefairy/"
+  }, {
+    "id" : 256,
+    "name" : "Clefable",
+    "url" : "/pokedex-swsh/clefable/"
+  }, {
+    "id" : 257,
+    "name" : "Togepi",
+    "url" : "/pokedex-swsh/togepi/"
+  }, {
+    "id" : 258,
+    "name" : "Togetic",
+    "url" : "/pokedex-swsh/togetic/"
+  }, {
+    "id" : 259,
+    "name" : "Togekiss",
+    "url" : "/pokedex-swsh/togekiss/"
+  }, {
+    "id" : 260,
+    "name" : "Munchlax",
+    "url" : "/pokedex-swsh/munchlax/"
+  }, {
+    "id" : 261,
+    "name" : "Snorlax",
+    "url" : "/pokedex-swsh/snorlax/"
+  }, {
+    "id" : 262,
+    "name" : "Cottonee",
+    "url" : "/pokedex-swsh/cottonee/"
+  }, {
+    "id" : 263,
+    "name" : "Whimsicott",
+    "url" : "/pokedex-swsh/whimsicott/"
+  }, {
+    "id" : 264,
+    "name" : "Rhyhorn",
+    "url" : "/pokedex-swsh/rhyhorn/"
+  }, {
+    "id" : 265,
+    "name" : "Rhydon",
+    "url" : "/pokedex-swsh/rhydon/"
+  }, {
+    "id" : 266,
+    "name" : "Rhyperior",
+    "url" : "/pokedex-swsh/rhyperior/"
+  }, {
+    "id" : 267,
+    "name" : "Gothita",
+    "url" : "/pokedex-swsh/gothita/"
+  }, {
+    "id" : 268,
+    "name" : "Gothorita",
+    "url" : "/pokedex-swsh/gothorita/"
+  }, {
+    "id" : 269,
+    "name" : "Gothitelle",
+    "url" : "/pokedex-swsh/gothitelle/"
+  }, {
+    "id" : 270,
+    "name" : "Solosis",
+    "url" : "/pokedex-swsh/solosis/"
+  }, {
+    "id" : 271,
+    "name" : "Duosion",
+    "url" : "/pokedex-swsh/duosion/"
+  }, {
+    "id" : 272,
+    "name" : "Reuniclus",
+    "url" : "/pokedex-swsh/reuniclus/"
+  }, {
+    "id" : 273,
+    "name" : "Karrablast",
+    "url" : "/pokedex-swsh/karrablast/"
+  }, {
+    "id" : 274,
+    "name" : "Escavalier",
+    "url" : "/pokedex-swsh/escavalier/"
+  }, {
+    "id" : 275,
+    "name" : "Shelmet",
+    "url" : "/pokedex-swsh/shelmet/"
+  }, {
+    "id" : 276,
+    "name" : "Accelgor",
+    "url" : "/pokedex-swsh/accelgor/"
+  }, {
+    "id" : 277,
+    "name" : "Elgyem",
+    "url" : "/pokedex-swsh/elgyem/"
+  }, {
+    "id" : 278,
+    "name" : "Beheeyem",
+    "url" : "/pokedex-swsh/beheeyem/"
+  }, {
+    "id" : 279,
+    "name" : "Cubchoo",
+    "url" : "/pokedex-swsh/cubchoo/"
+  }, {
+    "id" : 280,
+    "name" : "Beartic",
+    "url" : "/pokedex-swsh/beartic/"
+  }, {
+    "id" : 281,
+    "name" : "Rufflet",
+    "url" : "/pokedex-swsh/rufflet/"
+  }, {
+    "id" : 282,
+    "name" : "Braviary",
+    "url" : "/pokedex-swsh/braviary/"
+  }, {
+    "id" : 283,
+    "name" : "Vullaby",
+    "url" : "/pokedex-swsh/vullaby/"
+  }, {
+    "id" : 284,
+    "name" : "Mandibuzz",
+    "url" : "/pokedex-swsh/mandibuzz/"
+  }, {
+    "id" : 285,
+    "name" : "Skorupi",
+    "url" : "/pokedex-swsh/skorupi/"
+  }, {
+    "id" : 286,
+    "name" : "Drapion",
+    "url" : "/pokedex-swsh/drapion/"
+  }, {
+    "id" : 287,
+    "name" : "Litwick",
+    "url" : "/pokedex-swsh/litwick/"
+  }, {
+    "id" : 288,
+    "name" : "Lampent",
+    "url" : "/pokedex-swsh/lampent/"
+  }, {
+    "id" : 289,
+    "name" : "Chandelure",
+    "url" : "/pokedex-swsh/chandelure/"
+  }, {
+    "id" : 290,
+    "name" : "Inkay",
+    "url" : "/pokedex-swsh/inkay/"
+  }, {
+    "id" : 291,
+    "name" : "Malamar",
+    "url" : "/pokedex-swsh/malamar/"
+  }, {
+    "id" : 292,
+    "name" : "Sneasel",
+    "url" : "/pokedex-swsh/sneasel/"
+  }, {
+    "id" : 293,
+    "name" : "Weavile",
+    "url" : "/pokedex-swsh/weavile/"
+  }, {
+    "id" : 294,
+    "name" : "Sableye",
+    "url" : "/pokedex-swsh/sableye/"
+  }, {
+    "id" : 295,
+    "name" : "Mawile",
+    "url" : "/pokedex-swsh/mawile/"
+  }, {
+    "id" : 296,
+    "name" : "Maractus",
+    "url" : "/pokedex-swsh/maractus/"
+  }, {
+    "id" : 297,
+    "name" : "Sigilyph",
+    "url" : "/pokedex-swsh/sigilyph/"
+  }, {
+    "id" : 298,
+    "name" : "Riolu",
+    "url" : "/pokedex-swsh/riolu/"
+  }, {
+    "id" : 299,
+    "name" : "Lucario",
+    "url" : "/pokedex-swsh/lucario/"
+  }, {
+    "id" : 300,
+    "name" : "Torkoal",
+    "url" : "/pokedex-swsh/torkoal/"
+  }, {
+    "id" : 301,
+    "name" : "Mimikyu",
+    "url" : "/pokedex-swsh/mimikyu/"
+  }, {
+    "id" : 302,
+    "name" : "Cufant",
+    "url" : "/pokedex-swsh/cufant/"
+  }, {
+    "id" : 303,
+    "name" : "Copperajah",
+    "url" : "/pokedex-swsh/copperajah/"
+  }, {
+    "id" : 304,
+    "name" : "Qwilfish",
+    "url" : "/pokedex-swsh/qwilfish/"
+  }, {
+    "id" : 305,
+    "name" : "Frillish",
+    "url" : "/pokedex-swsh/frillish/"
+  }, {
+    "id" : 306,
+    "name" : "Jellicent",
+    "url" : "/pokedex-swsh/jellicent/"
+  }, {
+    "id" : 307,
+    "name" : "Mareanie",
+    "url" : "/pokedex-swsh/mareanie/"
+  }, {
+    "id" : 308,
+    "name" : "Toxapex",
+    "url" : "/pokedex-swsh/toxapex/"
+  }, {
+    "id" : 309,
+    "name" : "Cramorant",
+    "url" : "/pokedex-swsh/cramorant/"
+  }, {
+    "id" : 310,
+    "name" : "Toxel",
+    "url" : "/pokedex-swsh/toxel/"
+  }, {
+    "id" : 311,
+    "name" : "Toxtricity",
+    "url" : "/pokedex-swsh/toxtricity/"
+  }, {
+    "id" : 312,
+    "name" : "Silicobra",
+    "url" : "/pokedex-swsh/silicobra/"
+  }, {
+    "id" : 313,
+    "name" : "Sandaconda",
+    "url" : "/pokedex-swsh/sandaconda/"
+  }, {
+    "id" : 314,
+    "name" : "Hippopotas",
+    "url" : "/pokedex-swsh/hippopotas/"
+  }, {
+    "id" : 315,
+    "name" : "Hippowdon",
+    "url" : "/pokedex-swsh/hippowdon/"
+  }, {
+    "id" : 316,
+    "name" : "Durant",
+    "url" : "/pokedex-swsh/durant/"
+  }, {
+    "id" : 317,
+    "name" : "Heatmor",
+    "url" : "/pokedex-swsh/heatmor/"
+  }, {
+    "id" : 318,
+    "name" : "Helioptile",
+    "url" : "/pokedex-swsh/helioptile/"
+  }, {
+    "id" : 319,
+    "name" : "Heliolisk",
+    "url" : "/pokedex-swsh/heliolisk/"
+  }, {
+    "id" : 320,
+    "name" : "Hawlucha",
+    "url" : "/pokedex-swsh/hawlucha/"
+  }, {
+    "id" : 321,
+    "name" : "Trapinch",
+    "url" : "/pokedex-swsh/trapinch/"
+  }, {
+    "id" : 322,
+    "name" : "Vibrava",
+    "url" : "/pokedex-swsh/vibrava/"
+  }, {
+    "id" : 323,
+    "name" : "Flygon",
+    "url" : "/pokedex-swsh/flygon/"
+  }, {
+    "id" : 324,
+    "name" : "Axew",
+    "url" : "/pokedex-swsh/axew/"
+  }, {
+    "id" : 325,
+    "name" : "Fraxure",
+    "url" : "/pokedex-swsh/fraxure/"
+  }, {
+    "id" : 326,
+    "name" : "Haxorus",
+    "url" : "/pokedex-swsh/haxorus/"
+  }, {
+    "id" : 327,
+    "name" : "Yamask",
+    "url" : "/pokedex-swsh/yamask/"
+  }, {
+    "id" : 328,
+    "name" : "Runerigus",
+    "url" : "/pokedex-swsh/runerigus/"
+  }, {
+    "id" : 329,
+    "name" : "Cofagrigus",
+    "url" : "/pokedex-swsh/cofagrigus/"
+  }, {
+    "id" : 330,
+    "name" : "Honedge",
+    "url" : "/pokedex-swsh/honedge/"
+  }, {
+    "id" : 331,
+    "name" : "Doublade",
+    "url" : "/pokedex-swsh/doublade/"
+  }, {
+    "id" : 332,
+    "name" : "Aegislash",
+    "url" : "/pokedex-swsh/aegislash/"
+  }, {
+    "id" : 333,
+    "name" : "Ponyta",
+    "url" : "/pokedex-swsh/ponyta/"
+  }, {
+    "id" : 334,
+    "name" : "Rapidash",
+    "url" : "/pokedex-swsh/rapidash/"
+  }, {
+    "id" : 335,
+    "name" : "Sinistea",
+    "url" : "/pokedex-swsh/sinistea/"
+  }, {
+    "id" : 336,
+    "name" : "Polteageist",
+    "url" : "/pokedex-swsh/polteageist/"
+  }, {
+    "id" : 337,
+    "name" : "Indeedee",
+    "url" : "/pokedex-swsh/indeedee/"
+  }, {
+    "id" : 338,
+    "name" : "Phantump",
+    "url" : "/pokedex-swsh/phantump/"
+  }, {
+    "id" : 339,
+    "name" : "Trevenant",
+    "url" : "/pokedex-swsh/trevenant/"
+  }, {
+    "id" : 340,
+    "name" : "Morelull",
+    "url" : "/pokedex-swsh/morelull/"
+  }, {
+    "id" : 341,
+    "name" : "Shiinotic",
+    "url" : "/pokedex-swsh/shiinotic/"
+  }, {
+    "id" : 342,
+    "name" : "Oranguru",
+    "url" : "/pokedex-swsh/oranguru/"
+  }, {
+    "id" : 343,
+    "name" : "Passimian",
+    "url" : "/pokedex-swsh/passimian/"
+  }, {
+    "id" : 344,
+    "name" : "Morpeko",
+    "url" : "/pokedex-swsh/morpeko/"
+  }, {
+    "id" : 345,
+    "name" : "Falinks",
+    "url" : "/pokedex-swsh/falinks/"
+  }, {
+    "id" : 346,
+    "name" : "Drampa",
+    "url" : "/pokedex-swsh/drampa/"
+  }, {
+    "id" : 347,
+    "name" : "Turtonator",
+    "url" : "/pokedex-swsh/turtonator/"
+  }, {
+    "id" : 348,
+    "name" : "Togedemaru",
+    "url" : "/pokedex-swsh/togedemaru/"
+  }, {
+    "id" : 349,
+    "name" : "Snom",
+    "url" : "/pokedex-swsh/snom/"
+  }, {
+    "id" : 350,
+    "name" : "Frosmoth",
+    "url" : "/pokedex-swsh/frosmoth/"
+  }, {
+    "id" : 351,
+    "name" : "Clobbopus",
+    "url" : "/pokedex-swsh/clobbopus/"
+  }, {
+    "id" : 352,
+    "name" : "Grapploct",
+    "url" : "/pokedex-swsh/grapploct/"
+  }, {
+    "id" : 353,
+    "name" : "Pincurchin",
+    "url" : "/pokedex-swsh/pincurchin/"
+  }, {
+    "id" : 354,
+    "name" : "Mantyke",
+    "url" : "/pokedex-swsh/mantyke/"
+  }, {
+    "id" : 355,
+    "name" : "Mantine",
+    "url" : "/pokedex-swsh/mantine/"
+  }, {
+    "id" : 356,
+    "name" : "Wailmer",
+    "url" : "/pokedex-swsh/wailmer/"
+  }, {
+    "id" : 357,
+    "name" : "Wailord",
+    "url" : "/pokedex-swsh/wailord/"
+  }, {
+    "id" : 358,
+    "name" : "Bergmite",
+    "url" : "/pokedex-swsh/bergmite/"
+  }, {
+    "id" : 359,
+    "name" : "Avalugg",
+    "url" : "/pokedex-swsh/avalugg/"
+  }, {
+    "id" : 360,
+    "name" : "Dhelmise",
+    "url" : "/pokedex-swsh/dhelmise/"
+  }, {
+    "id" : 361,
+    "name" : "Lapras",
+    "url" : "/pokedex-swsh/lapras/"
+  }, {
+    "id" : 362,
+    "name" : "Lunatone",
+    "url" : "/pokedex-swsh/lunatone/"
+  }, {
+    "id" : 363,
+    "name" : "Solrock",
+    "url" : "/pokedex-swsh/solrock/"
+  }, {
+    "id" : 364,
+    "name" : "Mime Jr.",
+    "url" : "/pokedex-swsh/mimejr./"
+  }, {
+    "id" : 365,
+    "name" : "Mr. Mime",
+    "url" : "/pokedex-swsh/mr.mime/"
+  }, {
+    "id" : 366,
+    "name" : "Mr. Rime",
+    "url" : "/pokedex-swsh/mr.rime/"
+  }, {
+    "id" : 367,
+    "name" : "Darumaka",
+    "url" : "/pokedex-swsh/darumaka/"
+  }, {
+    "id" : 368,
+    "name" : "Darmanitan",
+    "url" : "/pokedex-swsh/darmanitan/"
+  }, {
+    "id" : 369,
+    "name" : "Stonjourner",
+    "url" : "/pokedex-swsh/stonjourner/"
+  }, {
+    "id" : 370,
+    "name" : "Eiscue",
+    "url" : "/pokedex-swsh/eiscue/"
+  }, {
+    "id" : 371,
+    "name" : "Duraludon",
+    "url" : "/pokedex-swsh/duraludon/"
+  }, {
+    "id" : 372,
+    "name" : "Rotom",
+    "url" : "/pokedex-swsh/rotom/"
+  }, {
+    "id" : 373,
+    "name" : "Ditto",
+    "url" : "/pokedex-swsh/ditto/"
+  }, {
+    "id" : 374,
+    "name" : "Dracozolt",
+    "url" : "/pokedex-swsh/dracozolt/"
+  }, {
+    "id" : 375,
+    "name" : "Arctozolt",
+    "url" : "/pokedex-swsh/arctozolt/"
+  }, {
+    "id" : 376,
+    "name" : "Dracovish",
+    "url" : "/pokedex-swsh/dracovish/"
+  }, {
+    "id" : 377,
+    "name" : "Arctovish",
+    "url" : "/pokedex-swsh/arctovish/"
+  }, {
+    "id" : 378,
+    "name" : "Charmander",
+    "url" : "/pokedex-swsh/charmander/"
+  }, {
+    "id" : 379,
+    "name" : "Charmeleon",
+    "url" : "/pokedex-swsh/charmeleon/"
+  }, {
+    "id" : 380,
+    "name" : "Charizard",
+    "url" : "/pokedex-swsh/charizard/"
+  }, {
+    "id" : 381,
+    "name" : "Type: Null",
+    "url" : "/pokedex-swsh/type:null/"
+  }, {
+    "id" : 382,
+    "name" : "Silvally",
+    "url" : "/pokedex-swsh/silvally/"
+  }, {
+    "id" : 383,
+    "name" : "Larvitar",
+    "url" : "/pokedex-swsh/larvitar/"
+  }, {
+    "id" : 384,
+    "name" : "Pupitar",
+    "url" : "/pokedex-swsh/pupitar/"
+  }, {
+    "id" : 385,
+    "name" : "Tyranitar",
+    "url" : "/pokedex-swsh/tyranitar/"
+  }, {
+    "id" : 386,
+    "name" : "Deino",
+    "url" : "/pokedex-swsh/deino/"
+  }, {
+    "id" : 387,
+    "name" : "Zweilous",
+    "url" : "/pokedex-swsh/zweilous/"
+  }, {
+    "id" : 388,
+    "name" : "Hydreigon",
+    "url" : "/pokedex-swsh/hydreigon/"
+  }, {
+    "id" : 389,
+    "name" : "Goomy",
+    "url" : "/pokedex-swsh/goomy/"
+  }, {
+    "id" : 390,
+    "name" : "Sliggoo",
+    "url" : "/pokedex-swsh/sliggoo/"
+  }, {
+    "id" : 391,
+    "name" : "Goodra",
+    "url" : "/pokedex-swsh/goodra/"
+  }, {
+    "id" : 392,
+    "name" : "Jangmo-o",
+    "url" : "/pokedex-swsh/jangmo-o/"
+  }, {
+    "id" : 393,
+    "name" : "Hakamo-o",
+    "url" : "/pokedex-swsh/hakamo-o/"
+  }, {
+    "id" : 394,
+    "name" : "Kommo-o",
+    "url" : "/pokedex-swsh/kommo-o/"
+  }, {
+    "id" : 395,
+    "name" : "Dreepy",
+    "url" : "/pokedex-swsh/dreepy/"
+  }, {
+    "id" : 396,
+    "name" : "Drakloak",
+    "url" : "/pokedex-swsh/drakloak/"
+  }, {
+    "id" : 397,
+    "name" : "Dragapult",
+    "url" : "/pokedex-swsh/dragapult/"
+  }, {
+    "id" : 398,
+    "name" : "Zacian",
+    "url" : "/pokedex-swsh/zacian/"
+  }, {
+    "id" : 399,
+    "name" : "Zamazenta",
+    "url" : "/pokedex-swsh/zamazenta/"
+  }, {
+    "id" : 400,
+    "name" : "Eternatus",
+    "url" : "/pokedex-swsh/eternatus/"
+  } ],
+  "abilityDex" : [ {
+    "name" : "AbilityDex A-L",
+    "description" : null,
+    "url" : "index.shtml"
+  }, {
+    "name" : "Adaptability",
+    "description" : null,
+    "url" : "/abilitydex/adaptability.shtml"
+  }, {
+    "name" : "Aerilate",
+    "description" : null,
+    "url" : "/abilitydex/aerilate.shtml"
+  }, {
+    "name" : "Aftermath",
+    "description" : null,
+    "url" : "/abilitydex/aftermath.shtml"
+  }, {
+    "name" : "Air Lock",
+    "description" : null,
+    "url" : "/abilitydex/airlock.shtml"
+  }, {
+    "name" : "Analytic",
+    "description" : null,
+    "url" : "/abilitydex/analytic.shtml"
+  }, {
+    "name" : "Anger Point",
+    "description" : null,
+    "url" : "/abilitydex/angerpoint.shtml"
+  }, {
+    "name" : "Anticipation",
+    "description" : null,
+    "url" : "/abilitydex/anticipation.shtml"
+  }, {
+    "name" : "Arena Trap",
+    "description" : null,
+    "url" : "/abilitydex/arenatrap.shtml"
+  }, {
+    "name" : "Aroma Veil",
+    "description" : null,
+    "url" : "/abilitydex/aromaveil.shtml"
+  }, {
+    "name" : "Aura Break",
+    "description" : null,
+    "url" : "/abilitydex/aurabreak.shtml"
+  }, {
+    "name" : "Bad Dreams",
+    "description" : null,
+    "url" : "/abilitydex/baddreams.shtml"
+  }, {
+    "name" : "Ball Fetch",
+    "description" : null,
+    "url" : "/abilitydex/ballfetch.shtml"
+  }, {
+    "name" : "Battery",
+    "description" : null,
+    "url" : "/abilitydex/battery.shtml"
+  }, {
+    "name" : "Battle Armor",
+    "description" : null,
+    "url" : "/abilitydex/battlearmor.shtml"
+  }, {
+    "name" : "Battle Bond",
+    "description" : null,
+    "url" : "/abilitydex/battlebond.shtml"
+  }, {
+    "name" : "Beast Boost",
+    "description" : null,
+    "url" : "/abilitydex/beastboost.shtml"
+  }, {
+    "name" : "Berserk",
+    "description" : null,
+    "url" : "/abilitydex/berserk.shtml"
+  }, {
+    "name" : "Big Pecks",
+    "description" : null,
+    "url" : "/abilitydex/bigpecks.shtml"
+  }, {
+    "name" : "Blaze",
+    "description" : null,
+    "url" : "/abilitydex/blaze.shtml"
+  }, {
+    "name" : "Bulletproof",
+    "description" : null,
+    "url" : "/abilitydex/bulletproof.shtml"
+  }, {
+    "name" : "Cheek Pouch",
+    "description" : null,
+    "url" : "/abilitydex/cheekpouch.shtml"
+  }, {
+    "name" : "Chlorophyll",
+    "description" : null,
+    "url" : "/abilitydex/chlorophyll.shtml"
+  }, {
+    "name" : "Clear Body",
+    "description" : null,
+    "url" : "/abilitydex/clearbody.shtml"
+  }, {
+    "name" : "Cloud Nine",
+    "description" : null,
+    "url" : "/abilitydex/cloudnine.shtml"
+  }, {
+    "name" : "Color Change",
+    "description" : null,
+    "url" : "/abilitydex/colorchange.shtml"
+  }, {
+    "name" : "Comatose",
+    "description" : null,
+    "url" : "/abilitydex/comatose.shtml"
+  }, {
+    "name" : "Competitive",
+    "description" : null,
+    "url" : "/abilitydex/competitive.shtml"
+  }, {
+    "name" : "Compoundeyes",
+    "description" : null,
+    "url" : "/abilitydex/compoundeyes.shtml"
+  }, {
+    "name" : "Contrary",
+    "description" : null,
+    "url" : "/abilitydex/contrary.shtml"
+  }, {
+    "name" : "Corrosion",
+    "description" : null,
+    "url" : "/abilitydex/corrosion.shtml"
+  }, {
+    "name" : "Cotton Down",
+    "description" : null,
+    "url" : "/abilitydex/cottondown.shtml"
+  }, {
+    "name" : "Cursed Body",
+    "description" : null,
+    "url" : "/abilitydex/cursedbody.shtml"
+  }, {
+    "name" : "Cute Charm",
+    "description" : null,
+    "url" : "/abilitydex/cutecharm.shtml"
+  }, {
+    "name" : "Damp",
+    "description" : null,
+    "url" : "/abilitydex/damp.shtml"
+  }, {
+    "name" : "Dancer",
+    "description" : null,
+    "url" : "/abilitydex/dancer.shtml"
+  }, {
+    "name" : "Dark Aura",
+    "description" : null,
+    "url" : "/abilitydex/darkaura.shtml"
+  }, {
+    "name" : "Dauntless Shield",
+    "description" : null,
+    "url" : "/abilitydex/dauntlessshield.shtml"
+  }, {
+    "name" : "Dazzling",
+    "description" : null,
+    "url" : "/abilitydex/dazzling.shtml"
+  }, {
+    "name" : "Defeatist",
+    "description" : null,
+    "url" : "/abilitydex/defeatist.shtml"
+  }, {
+    "name" : "Defiant",
+    "description" : null,
+    "url" : "/abilitydex/defiant.shtml"
+  }, {
+    "name" : "Delta Stream",
+    "description" : null,
+    "url" : "/abilitydex/deltastream.shtml"
+  }, {
+    "name" : "Desolate Land",
+    "description" : null,
+    "url" : "/abilitydex/desolateland.shtml"
+  }, {
+    "name" : "Disguise",
+    "description" : null,
+    "url" : "/abilitydex/disguise.shtml"
+  }, {
+    "name" : "Download",
+    "description" : null,
+    "url" : "/abilitydex/download.shtml"
+  }, {
+    "name" : "Drizzle",
+    "description" : null,
+    "url" : "/abilitydex/drizzle.shtml"
+  }, {
+    "name" : "Drought",
+    "description" : null,
+    "url" : "/abilitydex/drought.shtml"
+  }, {
+    "name" : "Dry Skin",
+    "description" : null,
+    "url" : "/abilitydex/dryskin.shtml"
+  }, {
+    "name" : "Early Bird",
+    "description" : null,
+    "url" : "/abilitydex/earlybird.shtml"
+  }, {
+    "name" : "Effect Spore",
+    "description" : null,
+    "url" : "/abilitydex/effectspore.shtml"
+  }, {
+    "name" : "Electric Surge",
+    "description" : null,
+    "url" : "/abilitydex/electricsurge.shtml"
+  }, {
+    "name" : "Emergency Exit",
+    "description" : null,
+    "url" : "/abilitydex/emergencyexit.shtml"
+  }, {
+    "name" : "Fairy Aura",
+    "description" : null,
+    "url" : "/abilitydex/fairyaura.shtml"
+  }, {
+    "name" : "Filter",
+    "description" : null,
+    "url" : "/abilitydex/filter.shtml"
+  }, {
+    "name" : "Flame Body",
+    "description" : null,
+    "url" : "/abilitydex/flamebody.shtml"
+  }, {
+    "name" : "Flare Boost",
+    "description" : null,
+    "url" : "/abilitydex/flareboost.shtml"
+  }, {
+    "name" : "Flash Fire",
+    "description" : null,
+    "url" : "/abilitydex/flashfire.shtml"
+  }, {
+    "name" : "Flower Gift",
+    "description" : null,
+    "url" : "/abilitydex/flowergift.shtml"
+  }, {
+    "name" : "Flower Veil",
+    "description" : null,
+    "url" : "/abilitydex/flowerveil.shtml"
+  }, {
+    "name" : "Fluffy",
+    "description" : null,
+    "url" : "/abilitydex/fluffy.shtml"
+  }, {
+    "name" : "Forecast",
+    "description" : null,
+    "url" : "/abilitydex/forecast.shtml"
+  }, {
+    "name" : "Forewarn",
+    "description" : null,
+    "url" : "/abilitydex/forewarn.shtml"
+  }, {
+    "name" : "Friend Guard",
+    "description" : null,
+    "url" : "/abilitydex/friendguard.shtml"
+  }, {
+    "name" : "Frisk",
+    "description" : null,
+    "url" : "/abilitydex/frisk.shtml"
+  }, {
+    "name" : "Full Metal Body",
+    "description" : null,
+    "url" : "/abilitydex/fullmetalbody.shtml"
+  }, {
+    "name" : "Fur Coat",
+    "description" : null,
+    "url" : "/abilitydex/furcoat.shtml"
+  }, {
+    "name" : "Gale Wings",
+    "description" : null,
+    "url" : "/abilitydex/galewings.shtml"
+  }, {
+    "name" : "Galvanize",
+    "description" : null,
+    "url" : "/abilitydex/galvanize.shtml"
+  }, {
+    "name" : "Gluttony",
+    "description" : null,
+    "url" : "/abilitydex/gluttony.shtml"
+  }, {
+    "name" : "Gooey",
+    "description" : null,
+    "url" : "/abilitydex/gooey.shtml"
+  }, {
+    "name" : "Gorilla Tactics",
+    "description" : null,
+    "url" : "/abilitydex/gorillatactics.shtml"
+  }, {
+    "name" : "Grass Pelt",
+    "description" : null,
+    "url" : "/abilitydex/grasspelt.shtml"
+  }, {
+    "name" : "Grassy Surge",
+    "description" : null,
+    "url" : "/abilitydex/grassysurge.shtml"
+  }, {
+    "name" : "Gulp Missile",
+    "description" : null,
+    "url" : "/abilitydex/gulpmissile.shtml"
+  }, {
+    "name" : "Guts",
+    "description" : null,
+    "url" : "/abilitydex/guts.shtml"
+  }, {
+    "name" : "Harvest",
+    "description" : null,
+    "url" : "/abilitydex/harvest.shtml"
+  }, {
+    "name" : "Healer",
+    "description" : null,
+    "url" : "/abilitydex/healer.shtml"
+  }, {
+    "name" : "Heatproof",
+    "description" : null,
+    "url" : "/abilitydex/heatproof.shtml"
+  }, {
+    "name" : "Heavy Metal",
+    "description" : null,
+    "url" : "/abilitydex/heavymetal.shtml"
+  }, {
+    "name" : "Honey Gather",
+    "description" : null,
+    "url" : "/abilitydex/honeygather.shtml"
+  }, {
+    "name" : "Huge Power",
+    "description" : null,
+    "url" : "/abilitydex/hugepower.shtml"
+  }, {
+    "name" : "Hunger Switch",
+    "description" : null,
+    "url" : "/abilitydex/hungerswitch.shtml"
+  }, {
+    "name" : "Hustle",
+    "description" : null,
+    "url" : "/abilitydex/hustle.shtml"
+  }, {
+    "name" : "Hydration",
+    "description" : null,
+    "url" : "/abilitydex/hydration.shtml"
+  }, {
+    "name" : "Hyper Cutter",
+    "description" : null,
+    "url" : "/abilitydex/hypercutter.shtml"
+  }, {
+    "name" : "Ice Body",
+    "description" : null,
+    "url" : "/abilitydex/icebody.shtml"
+  }, {
+    "name" : "Ice Face",
+    "description" : null,
+    "url" : "/abilitydex/iceface.shtml"
+  }, {
+    "name" : "Ice Scales",
+    "description" : null,
+    "url" : "/abilitydex/icescales.shtml"
+  }, {
+    "name" : "Illuminate",
+    "description" : null,
+    "url" : "/abilitydex/illuminate.shtml"
+  }, {
+    "name" : "Illusion",
+    "description" : null,
+    "url" : "/abilitydex/illusion.shtml"
+  }, {
+    "name" : "Immunity",
+    "description" : null,
+    "url" : "/abilitydex/immunity.shtml"
+  }, {
+    "name" : "Imposter",
+    "description" : null,
+    "url" : "/abilitydex/imposter.shtml"
+  }, {
+    "name" : "Infiltrator",
+    "description" : null,
+    "url" : "/abilitydex/infiltrator.shtml"
+  }, {
+    "name" : "Innards Out",
+    "description" : null,
+    "url" : "/abilitydex/innardsout.shtml"
+  }, {
+    "name" : "Inner Focus",
+    "description" : null,
+    "url" : "/abilitydex/innerfocus.shtml"
+  }, {
+    "name" : "Insomnia",
+    "description" : null,
+    "url" : "/abilitydex/insomnia.shtml"
+  }, {
+    "name" : "Intimidate",
+    "description" : null,
+    "url" : "/abilitydex/intimidate.shtml"
+  }, {
+    "name" : "Intrepid Sword",
+    "description" : null,
+    "url" : "/abilitydex/intrepidsword.shtml"
+  }, {
+    "name" : "Iron Barbs",
+    "description" : null,
+    "url" : "/abilitydex/ironbarbs.shtml"
+  }, {
+    "name" : "Iron Fist",
+    "description" : null,
+    "url" : "/abilitydex/ironfist.shtml"
+  }, {
+    "name" : "Justified",
+    "description" : null,
+    "url" : "/abilitydex/justified.shtml"
+  }, {
+    "name" : "Keen Eye",
+    "description" : null,
+    "url" : "/abilitydex/keeneye.shtml"
+  }, {
+    "name" : "Klutz",
+    "description" : null,
+    "url" : "/abilitydex/klutz.shtml"
+  }, {
+    "name" : "Leaf Guard",
+    "description" : null,
+    "url" : "/abilitydex/leafguard.shtml"
+  }, {
+    "name" : "Levitate",
+    "description" : null,
+    "url" : "/abilitydex/levitate.shtml"
+  }, {
+    "name" : "Libero",
+    "description" : null,
+    "url" : "/abilitydex/libero.shtml"
+  }, {
+    "name" : "Light Metal",
+    "description" : null,
+    "url" : "/abilitydex/lightmetal.shtml"
+  }, {
+    "name" : "Lightningrod",
+    "description" : null,
+    "url" : "/abilitydex/lightningrod.shtml"
+  }, {
+    "name" : "Limber",
+    "description" : null,
+    "url" : "/abilitydex/limber.shtml"
+  }, {
+    "name" : "Liquid Ooze",
+    "description" : null,
+    "url" : "/abilitydex/liquidooze.shtml"
+  }, {
+    "name" : "Liquid Voice",
+    "description" : null,
+    "url" : "/abilitydex/liquidvoice.shtml"
+  }, {
+    "name" : "Long Reach",
+    "description" : null,
+    "url" : "/abilitydex/longreach.shtml"
+  }, {
+    "name" : "AbilityDex M-Z",
+    "description" : null,
+    "url" : "index.shtml"
+  }, {
+    "name" : "Magic Bounce",
+    "description" : null,
+    "url" : "/abilitydex/magicbounce.shtml"
+  }, {
+    "name" : "Magic Guard",
+    "description" : null,
+    "url" : "/abilitydex/magicguard.shtml"
+  }, {
+    "name" : "Magician",
+    "description" : null,
+    "url" : "/abilitydex/magician.shtml"
+  }, {
+    "name" : "Magma Armor",
+    "description" : null,
+    "url" : "/abilitydex/magmaarmor.shtml"
+  }, {
+    "name" : "Magnet Pull",
+    "description" : null,
+    "url" : "/abilitydex/magnetpull.shtml"
+  }, {
+    "name" : "Marvel Scale",
+    "description" : null,
+    "url" : "/abilitydex/marvelscale.shtml"
+  }, {
+    "name" : "Mega Launcher",
+    "description" : null,
+    "url" : "/abilitydex/megalauncher.shtml"
+  }, {
+    "name" : "Merciless",
+    "description" : null,
+    "url" : "/abilitydex/merciless.shtml"
+  }, {
+    "name" : "Mimicry",
+    "description" : null,
+    "url" : "/abilitydex/mimicry.shtml"
+  }, {
+    "name" : "Minus",
+    "description" : null,
+    "url" : "/abilitydex/minus.shtml"
+  }, {
+    "name" : "Mirror Armor",
+    "description" : null,
+    "url" : "/abilitydex/mirrorarmor.shtml"
+  }, {
+    "name" : "Misty Surge",
+    "description" : null,
+    "url" : "/abilitydex/mistysurge.shtml"
+  }, {
+    "name" : "Mold Breaker",
+    "description" : null,
+    "url" : "/abilitydex/moldbreaker.shtml"
+  }, {
+    "name" : "Moody",
+    "description" : null,
+    "url" : "/abilitydex/moody.shtml"
+  }, {
+    "name" : "Motor Drive",
+    "description" : null,
+    "url" : "/abilitydex/motordrive.shtml"
+  }, {
+    "name" : "Moxie",
+    "description" : null,
+    "url" : "/abilitydex/moxie.shtml"
+  }, {
+    "name" : "Multiscale",
+    "description" : null,
+    "url" : "/abilitydex/multiscale.shtml"
+  }, {
+    "name" : "Multitype",
+    "description" : null,
+    "url" : "/abilitydex/multitype.shtml"
+  }, {
+    "name" : "Mummy",
+    "description" : null,
+    "url" : "/abilitydex/mummy.shtml"
+  }, {
+    "name" : "Natural Cure",
+    "description" : null,
+    "url" : "/abilitydex/naturalcure.shtml"
+  }, {
+    "name" : "Neuroforce",
+    "description" : null,
+    "url" : "/abilitydex/neuroforce.shtml"
+  }, {
+    "name" : "Neutralizing Gas",
+    "description" : null,
+    "url" : "/abilitydex/neutralizinggas.shtml"
+  }, {
+    "name" : "No Guard",
+    "description" : null,
+    "url" : "/abilitydex/noguard.shtml"
+  }, {
+    "name" : "Normalize",
+    "description" : null,
+    "url" : "/abilitydex/normalize.shtml"
+  }, {
+    "name" : "Oblivious",
+    "description" : null,
+    "url" : "/abilitydex/oblivious.shtml"
+  }, {
+    "name" : "Overcoat",
+    "description" : null,
+    "url" : "/abilitydex/overcoat.shtml"
+  }, {
+    "name" : "Overgrow",
+    "description" : null,
+    "url" : "/abilitydex/overgrow.shtml"
+  }, {
+    "name" : "Own Tempo",
+    "description" : null,
+    "url" : "/abilitydex/owntempo.shtml"
+  }, {
+    "name" : "Parental Bond",
+    "description" : null,
+    "url" : "/abilitydex/parentalbond.shtml"
+  }, {
+    "name" : "Pastel Veil",
+    "description" : null,
+    "url" : "/abilitydex/pastelveil.shtml"
+  }, {
+    "name" : "Perish Body",
+    "description" : null,
+    "url" : "/abilitydex/perishbody.shtml"
+  }, {
+    "name" : "Pickpocket",
+    "description" : null,
+    "url" : "/abilitydex/pickpocket.shtml"
+  }, {
+    "name" : "Pickup",
+    "description" : null,
+    "url" : "/abilitydex/pickup.shtml"
+  }, {
+    "name" : "Pixilate",
+    "description" : null,
+    "url" : "/abilitydex/pixilate.shtml"
+  }, {
+    "name" : "Plus",
+    "description" : null,
+    "url" : "/abilitydex/plus.shtml"
+  }, {
+    "name" : "Poison Heal",
+    "description" : null,
+    "url" : "/abilitydex/poisonheal.shtml"
+  }, {
+    "name" : "Poison Point",
+    "description" : null,
+    "url" : "/abilitydex/poisonpoint.shtml"
+  }, {
+    "name" : "Poison Touch",
+    "description" : null,
+    "url" : "/abilitydex/poisontouch.shtml"
+  }, {
+    "name" : "Power Construct",
+    "description" : null,
+    "url" : "/abilitydex/powerconstruct.shtml"
+  }, {
+    "name" : "Power of Alchemy",
+    "description" : null,
+    "url" : "/abilitydex/powerofalchemy.shtml"
+  }, {
+    "name" : "Power Spot",
+    "description" : null,
+    "url" : "/abilitydex/powerspot.shtml"
+  }, {
+    "name" : "Prankster",
+    "description" : null,
+    "url" : "/abilitydex/prankster.shtml"
+  }, {
+    "name" : "Pressure",
+    "description" : null,
+    "url" : "/abilitydex/pressure.shtml"
+  }, {
+    "name" : "Primordial Sea",
+    "description" : null,
+    "url" : "/abilitydex/primordialsea.shtml"
+  }, {
+    "name" : "Prism Armor",
+    "description" : null,
+    "url" : "/abilitydex/prismarmor.shtml"
+  }, {
+    "name" : "Propeller Tail",
+    "description" : null,
+    "url" : "/abilitydex/propellertail.shtml"
+  }, {
+    "name" : "Protean",
+    "description" : null,
+    "url" : "/abilitydex/protean.shtml"
+  }, {
+    "name" : "Psychic Surge",
+    "description" : null,
+    "url" : "/abilitydex/psychicsurge.shtml"
+  }, {
+    "name" : "Punk Rock",
+    "description" : null,
+    "url" : "/abilitydex/punkrock.shtml"
+  }, {
+    "name" : "Pure Power",
+    "description" : null,
+    "url" : "/abilitydex/purepower.shtml"
+  }, {
+    "name" : "Queenly Majesty",
+    "description" : null,
+    "url" : "/abilitydex/queenlymajesty.shtml"
+  }, {
+    "name" : "Quick Feet",
+    "description" : null,
+    "url" : "/abilitydex/quickfeet.shtml"
+  }, {
+    "name" : "Rain Dish",
+    "description" : null,
+    "url" : "/abilitydex/raindish.shtml"
+  }, {
+    "name" : "Rattled",
+    "description" : null,
+    "url" : "/abilitydex/rattled.shtml"
+  }, {
+    "name" : "Receiver",
+    "description" : null,
+    "url" : "/abilitydex/receiver.shtml"
+  }, {
+    "name" : "Reckless",
+    "description" : null,
+    "url" : "/abilitydex/reckless.shtml"
+  }, {
+    "name" : "Refrigerate",
+    "description" : null,
+    "url" : "/abilitydex/refrigerate.shtml"
+  }, {
+    "name" : "Regenerator",
+    "description" : null,
+    "url" : "/abilitydex/regenerator.shtml"
+  }, {
+    "name" : "Ripen",
+    "description" : null,
+    "url" : "/abilitydex/ripen.shtml"
+  }, {
+    "name" : "Rivalry",
+    "description" : null,
+    "url" : "/abilitydex/rivalry.shtml"
+  }, {
+    "name" : "RKS System",
+    "description" : null,
+    "url" : "/abilitydex/rkssystem.shtml"
+  }, {
+    "name" : "Rock Head",
+    "description" : null,
+    "url" : "/abilitydex/rockhead.shtml"
+  }, {
+    "name" : "Rough Skin",
+    "description" : null,
+    "url" : "/abilitydex/roughskin.shtml"
+  }, {
+    "name" : "Run Away",
+    "description" : null,
+    "url" : "/abilitydex/runaway.shtml"
+  }, {
+    "name" : "Sand Force",
+    "description" : null,
+    "url" : "/abilitydex/sandforce.shtml"
+  }, {
+    "name" : "Sand Rush",
+    "description" : null,
+    "url" : "/abilitydex/sandrush.shtml"
+  }, {
+    "name" : "Sand Spit",
+    "description" : null,
+    "url" : "/abilitydex/sandspit.shtml"
+  }, {
+    "name" : "Sand Stream",
+    "description" : null,
+    "url" : "/abilitydex/sandstream.shtml"
+  }, {
+    "name" : "Sand Veil",
+    "description" : null,
+    "url" : "/abilitydex/sandveil.shtml"
+  }, {
+    "name" : "Sap Sipper",
+    "description" : null,
+    "url" : "/abilitydex/sapsipper.shtml"
+  }, {
+    "name" : "Schooling",
+    "description" : null,
+    "url" : "/abilitydex/schooling.shtml"
+  }, {
+    "name" : "Scrappy",
+    "description" : null,
+    "url" : "/abilitydex/scrappy.shtml"
+  }, {
+    "name" : "Screen Cleaner",
+    "description" : null,
+    "url" : "/abilitydex/screencleaner.shtml"
+  }, {
+    "name" : "Serene Grace",
+    "description" : null,
+    "url" : "/abilitydex/serenegrace.shtml"
+  }, {
+    "name" : "Shadow Shield",
+    "description" : null,
+    "url" : "/abilitydex/shadowshield.shtml"
+  }, {
+    "name" : "Shadow Tag",
+    "description" : null,
+    "url" : "/abilitydex/shadowtag.shtml"
+  }, {
+    "name" : "Shed Skin",
+    "description" : null,
+    "url" : "/abilitydex/shedskin.shtml"
+  }, {
+    "name" : "Sheer Force",
+    "description" : null,
+    "url" : "/abilitydex/sheerforce.shtml"
+  }, {
+    "name" : "Shell Armor",
+    "description" : null,
+    "url" : "/abilitydex/shellarmor.shtml"
+  }, {
+    "name" : "Shield Dust",
+    "description" : null,
+    "url" : "/abilitydex/shielddust.shtml"
+  }, {
+    "name" : "Shields Down",
+    "description" : null,
+    "url" : "/abilitydex/shieldsdown.shtml"
+  }, {
+    "name" : "Simple",
+    "description" : null,
+    "url" : "/abilitydex/simple.shtml"
+  }, {
+    "name" : "Skill Link",
+    "description" : null,
+    "url" : "/abilitydex/skilllink.shtml"
+  }, {
+    "name" : "Slow Start",
+    "description" : null,
+    "url" : "/abilitydex/slowstart.shtml"
+  }, {
+    "name" : "Slush Rush",
+    "description" : null,
+    "url" : "/abilitydex/slushrush.shtml"
+  }, {
+    "name" : "Sniper",
+    "description" : null,
+    "url" : "/abilitydex/sniper.shtml"
+  }, {
+    "name" : "Snow Cloak",
+    "description" : null,
+    "url" : "/abilitydex/snowcloak.shtml"
+  }, {
+    "name" : "Snow Warning",
+    "description" : null,
+    "url" : "/abilitydex/snowwarning.shtml"
+  }, {
+    "name" : "Solar Power",
+    "description" : null,
+    "url" : "/abilitydex/solarpower.shtml"
+  }, {
+    "name" : "Solid Rock",
+    "description" : null,
+    "url" : "/abilitydex/solidrock.shtml"
+  }, {
+    "name" : "Soul-Heart",
+    "description" : null,
+    "url" : "/abilitydex/soul-heart.shtml"
+  }, {
+    "name" : "Soundproof",
+    "description" : null,
+    "url" : "/abilitydex/soundproof.shtml"
+  }, {
+    "name" : "Speed Boost",
+    "description" : null,
+    "url" : "/abilitydex/speedboost.shtml"
+  }, {
+    "name" : "Stakeout",
+    "description" : null,
+    "url" : "/abilitydex/stakeout.shtml"
+  }, {
+    "name" : "Stall",
+    "description" : null,
+    "url" : "/abilitydex/stall.shtml"
+  }, {
+    "name" : "Stalwart",
+    "description" : null,
+    "url" : "/abilitydex/stalwart.shtml"
+  }, {
+    "name" : "Stamina",
+    "description" : null,
+    "url" : "/abilitydex/stamina.shtml"
+  }, {
+    "name" : "Stance Change",
+    "description" : null,
+    "url" : "/abilitydex/stancechange.shtml"
+  }, {
+    "name" : "Static",
+    "description" : null,
+    "url" : "/abilitydex/static.shtml"
+  }, {
+    "name" : "Steadfast",
+    "description" : null,
+    "url" : "/abilitydex/steadfast.shtml"
+  }, {
+    "name" : "Steam Engine",
+    "description" : null,
+    "url" : "/abilitydex/steamengine.shtml"
+  }, {
+    "name" : "Steelworker",
+    "description" : null,
+    "url" : "/abilitydex/steelworker.shtml"
+  }, {
+    "name" : "Steely Spirit",
+    "description" : null,
+    "url" : "/abilitydex/steelyspirit.shtml"
+  }, {
+    "name" : "Stench",
+    "description" : null,
+    "url" : "/abilitydex/stench.shtml"
+  }, {
+    "name" : "Sticky Hold",
+    "description" : null,
+    "url" : "/abilitydex/stickyhold.shtml"
+  }, {
+    "name" : "Storm Drain",
+    "description" : null,
+    "url" : "/abilitydex/stormdrain.shtml"
+  }, {
+    "name" : "Strong Jaw",
+    "description" : null,
+    "url" : "/abilitydex/strongjaw.shtml"
+  }, {
+    "name" : "Sturdy",
+    "description" : null,
+    "url" : "/abilitydex/sturdy.shtml"
+  }, {
+    "name" : "Suction Cups",
+    "description" : null,
+    "url" : "/abilitydex/suctioncups.shtml"
+  }, {
+    "name" : "Super Luck",
+    "description" : null,
+    "url" : "/abilitydex/superluck.shtml"
+  }, {
+    "name" : "Surge Surfer",
+    "description" : null,
+    "url" : "/abilitydex/surgesurfer.shtml"
+  }, {
+    "name" : "Swarm",
+    "description" : null,
+    "url" : "/abilitydex/swarm.shtml"
+  }, {
+    "name" : "Sweet Veil",
+    "description" : null,
+    "url" : "/abilitydex/sweetveil.shtml"
+  }, {
+    "name" : "Swift Swim",
+    "description" : null,
+    "url" : "/abilitydex/swiftswim.shtml"
+  }, {
+    "name" : "Symbiosis",
+    "description" : null,
+    "url" : "/abilitydex/symbiosis.shtml"
+  }, {
+    "name" : "Synchronize",
+    "description" : null,
+    "url" : "/abilitydex/synchronize.shtml"
+  }, {
+    "name" : "Tangled Feet",
+    "description" : null,
+    "url" : "/abilitydex/tangledfeet.shtml"
+  }, {
+    "name" : "Tangling Hair",
+    "description" : null,
+    "url" : "/abilitydex/tanglinghair.shtml"
+  }, {
+    "name" : "Technician",
+    "description" : null,
+    "url" : "/abilitydex/technician.shtml"
+  }, {
+    "name" : "Telepathy",
+    "description" : null,
+    "url" : "/abilitydex/telepathy.shtml"
+  }, {
+    "name" : "Teravolt",
+    "description" : null,
+    "url" : "/abilitydex/teravolt.shtml"
+  }, {
+    "name" : "Thick Fat",
+    "description" : null,
+    "url" : "/abilitydex/thickfat.shtml"
+  }, {
+    "name" : "Tinted Lens",
+    "description" : null,
+    "url" : "/abilitydex/tintedlens.shtml"
+  }, {
+    "name" : "Torrent",
+    "description" : null,
+    "url" : "/abilitydex/torrent.shtml"
+  }, {
+    "name" : "Tough Claws",
+    "description" : null,
+    "url" : "/abilitydex/toughclaws.shtml"
+  }, {
+    "name" : "Toxic Boost",
+    "description" : null,
+    "url" : "/abilitydex/toxicboost.shtml"
+  }, {
+    "name" : "Trace",
+    "description" : null,
+    "url" : "/abilitydex/trace.shtml"
+  }, {
+    "name" : "Triage",
+    "description" : null,
+    "url" : "/abilitydex/triage.shtml"
+  }, {
+    "name" : "Truant",
+    "description" : null,
+    "url" : "/abilitydex/truant.shtml"
+  }, {
+    "name" : "Turboblaze",
+    "description" : null,
+    "url" : "/abilitydex/turboblaze.shtml"
+  }, {
+    "name" : "Unaware",
+    "description" : null,
+    "url" : "/abilitydex/unaware.shtml"
+  }, {
+    "name" : "Unburden",
+    "description" : null,
+    "url" : "/abilitydex/unburden.shtml"
+  }, {
+    "name" : "Unnerve",
+    "description" : null,
+    "url" : "/abilitydex/unnerve.shtml"
+  }, {
+    "name" : "Victory Star",
+    "description" : null,
+    "url" : "/abilitydex/victorystar.shtml"
+  }, {
+    "name" : "Vital Spirit",
+    "description" : null,
+    "url" : "/abilitydex/vitalspirit.shtml"
+  }, {
+    "name" : "Volt Absorb",
+    "description" : null,
+    "url" : "/abilitydex/voltabsorb.shtml"
+  }, {
+    "name" : "Wandering Spirit",
+    "description" : null,
+    "url" : "/abilitydex/wanderingspirit.shtml"
+  }, {
+    "name" : "Water Absorb",
+    "description" : null,
+    "url" : "/abilitydex/waterabsorb.shtml"
+  }, {
+    "name" : "Water Bubble",
+    "description" : null,
+    "url" : "/abilitydex/waterbubble.shtml"
+  }, {
+    "name" : "Water Compaction",
+    "description" : null,
+    "url" : "/abilitydex/watercompaction.shtml"
+  }, {
+    "name" : "Water Veil",
+    "description" : null,
+    "url" : "/abilitydex/waterveil.shtml"
+  }, {
+    "name" : "Weak Armor",
+    "description" : null,
+    "url" : "/abilitydex/weakarmor.shtml"
+  }, {
+    "name" : "White Smoke",
+    "description" : null,
+    "url" : "/abilitydex/whitesmoke.shtml"
+  }, {
+    "name" : "Wimp Out",
+    "description" : null,
+    "url" : "/abilitydex/wimpout.shtml"
+  }, {
+    "name" : "Wonder Guard",
+    "description" : null,
+    "url" : "/abilitydex/wonderguard.shtml"
+  }, {
+    "name" : "Wonder Skin",
+    "description" : null,
+    "url" : "/abilitydex/wonderskin.shtml"
+  }, {
+    "name" : "Zen Mode",
+    "description" : null,
+    "url" : "/abilitydex/zenmode.shtml"
+  } ],
+  "cachedData" : [ ],
+  "denData" : [ {
+    "number" : 38,
+    "pokemonNumbers" : [ 176, 177, 205, 206, 207, 389, 390, 391, 392, 393, 394, 395, 396, 397 ]
+  }, {
+    "number" : 64,
+    "pokemonNumbers" : [ 205, 321, 322, 323, 324, 325, 326, 346, 347, 389, 390, 391, 392, 393, 394, 395, 396, 397 ]
+  }, {
+    "number" : 16,
+    "pokemonNumbers" : [ 49, 84, 85, 104, 164, 165, 166, 167, 178, 179, 228, 229 ]
+  }, {
+    "number" : 52,
+    "pokemonNumbers" : [ 88, 89, 100, 101, 133, 134, 226, 228, 231, 266, 327, 328 ]
+  }, {
+    "number" : 13,
+    "pokemonNumbers" : [ 10, 11, 12, 92, 93, 241, 242, 243, 297, 333, 334, 337, 342, 364 ]
+  }, {
+    "number" : 87,
+    "pokemonNumbers" : [ 120, 122, 185, 210, 211, 212, 213, 238, 239, 240, 243, 257, 258, 259 ]
+  }, {
+    "number" : 27,
+    "pokemonNumbers" : [ 59, 60, 126, 127, 128, 129, 189, 190, 205, 206, 207, 262, 263 ]
+  }, {
+    "number" : 59,
+    "pokemonNumbers" : [ 36, 37, 38, 39, 40, 41, 126, 127, 128, 129, 262, 263, 340, 341, 360 ]
+  }, {
+    "number" : 8,
+    "pokemonNumbers" : [ 42, 43, 154, 155, 180, 181, 214, 215, 230, 231, 356, 357 ]
+  }, {
+    "number" : 44,
+    "pokemonNumbers" : [ 42, 144, 145, 152, 153, 154, 156, 180, 304, 307, 308, 361 ]
+  }, {
+    "number" : 36,
+    "pokemonNumbers" : [ 29, 30, 31, 32, 33, 44, 238, 239, 240, 283, 284, 385, 386, 387, 388 ]
+  }, {
+    "number" : 63,
+    "pokemonNumbers" : [ 29, 30, 31, 32, 33, 45, 112, 224, 225, 283, 284, 292, 293, 385, 388 ]
+  }, {
+    "number" : 4,
+    "pokemonNumbers" : [ 13, 14, 15, 16, 17, 18, 64, 65, 104, 105, 316 ]
+  }, {
+    "number" : 92,
+    "pokemonNumbers" : [ 10, 11, 12, 86, 214, 215, 232, 233, 273, 274, 275, 276 ]
+  }, {
+    "number" : 5,
+    "pokemonNumbers" : [ 10, 11, 12, 13, 14, 15, 64, 65, 116, 117, 187, 188 ]
+  }, {
+    "number" : 46,
+    "pokemonNumbers" : [ 10, 11, 12, 86, 106, 214, 215, 232, 233, 273, 274, 275, 276 ]
+  }, {
+    "number" : 40,
+    "pokemonNumbers" : [ 24, 25, 31, 32, 34, 35, 49, 260, 261, 282, 337, 342 ]
+  }, {
+    "number" : 65,
+    "pokemonNumbers" : [ 24, 26, 27, 28, 34, 35, 48, 196, 261, 282, 337, 342 ]
+  }, {
+    "number" : 34,
+    "pokemonNumbers" : [ 120, 121, 122, 185, 186, 238, 239, 240, 255, 256, 295, 334, 364 ]
+  }, {
+    "number" : 82,
+    "pokemonNumbers" : [ 120, 122, 186, 238, 239, 240, 257, 258, 259, 295, 333, 334, 340, 341 ]
+  }, {
+    "number" : 26,
+    "pokemonNumbers" : [ 36, 37, 38, 39, 40, 41, 52, 53, 54, 55, 56, 57, 58, 59, 60 ]
+  }, {
+    "number" : 58,
+    "pokemonNumbers" : [ 36, 37, 38, 39, 40, 41, 59, 60, 61, 126, 127, 189, 190, 205, 206, 207 ]
+  }, {
+    "number" : 28,
+    "pokemonNumbers" : [ 60, 191, 192, 296, 338, 339, 340, 341, 360 ]
+  }, {
+    "number" : 79,
+    "pokemonNumbers" : [ 36, 37, 38, 39, 40, 41, 59, 60, 61, 126, 127, 189, 190, 205, 206, 207 ]
+  }, {
+    "number" : 10,
+    "pokemonNumbers" : [ 94, 95, 107, 111, 112, 218, 219, 248, 249, 320, 345, 351, 352 ]
+  }, {
+    "number" : 48,
+    "pokemonNumbers" : [ 94, 95, 123, 138, 139, 140, 222, 223, 224, 225, 298, 299, 320, 343, 345 ]
+  }, {
+    "number" : 88,
+    "pokemonNumbers" : [ 29, 30, 31, 32, 45, 112, 224, 225, 238, 239, 240, 283, 284, 385, 388 ]
+  }, {
+    "number" : 17,
+    "pokemonNumbers" : [ 75, 76, 226, 312, 313, 314, 315, 321, 322, 323, 327, 328 ]
+  }, {
+    "number" : 93,
+    "pokemonNumbers" : [ 88, 89, 100, 101, 133, 134, 226, 228, 231, 266, 313, 327 ]
+  }, {
+    "number" : 11,
+    "pokemonNumbers" : [ 113, 114, 115, 118, 119, 182, 183, 189, 246, 247, 302, 303 ]
+  }, {
+    "number" : 49,
+    "pokemonNumbers" : [ 118, 119, 182, 183, 189, 190, 226, 246, 247, 303, 330, 371 ]
+  }, {
+    "number" : 9,
+    "pokemonNumbers" : [ 42, 43, 100, 101, 102, 103, 132, 133, 134, 150, 151, 156 ]
+  }, {
+    "number" : 75,
+    "pokemonNumbers" : [ 98, 99, 100, 101, 144, 145, 155, 214, 215, 228, 229, 304 ]
+  }, {
+    "number" : 21,
+    "pokemonNumbers" : [ 72, 73, 74, 75, 76, 78, 96, 97, 151, 358, 359, 361 ]
+  }, {
+    "number" : 55,
+    "pokemonNumbers" : [ 72, 74, 78, 79, 80, 279, 358, 359, 361, 365, 366, 367, 368, 370 ]
+  }, {
+    "number" : 20,
+    "pokemonNumbers" : [ 68, 69, 70, 71, 159, 160, 162, 163, 244, 245, 287, 300, 367, 368 ]
+  }, {
+    "number" : 54,
+    "pokemonNumbers" : [ 68, 69, 70, 71, 159, 162, 163, 244, 245, 287, 288, 289, 300, 317, 347 ]
+  }, {
+    "number" : 15,
+    "pokemonNumbers" : [ 86, 87, 161, 162, 163, 168, 169, 170, 178, 234, 235, 266 ]
+  }, {
+    "number" : 39,
+    "pokemonNumbers" : [ 19, 20, 26, 28, 48, 49, 50, 51, 94, 95, 318, 319 ]
+  }, {
+    "number" : 31,
+    "pokemonNumbers" : [ 19, 20, 26, 27, 28, 92, 93, 174, 175, 281, 282, 283, 284, 297 ]
+  }, {
+    "number" : 61,
+    "pokemonNumbers" : [ 15, 19, 20, 21, 22, 23, 62, 63, 78, 92, 93, 320 ]
+  }, {
+    "number" : 29,
+    "pokemonNumbers" : [ 55, 57, 60, 130, 131, 157, 158, 285, 286, 304, 307, 308 ]
+  }, {
+    "number" : 86,
+    "pokemonNumbers" : [ 130, 131, 157, 158, 244, 245, 250, 251, 285, 286, 307, 308, 310, 311 ]
+  }, {
+    "number" : 7,
+    "pokemonNumbers" : [ 144, 145, 148, 149, 154, 155, 220, 221, 354, 355, 356, 357 ]
+  }, {
+    "number" : 32,
+    "pokemonNumbers" : [ 21, 22, 23, 62, 63, 92, 93, 124, 125, 176, 309, 320 ]
+  }, {
+    "number" : 89,
+    "pokemonNumbers" : [ 15, 19, 20, 21, 22, 23, 62, 63, 92, 93, 297, 320 ]
+  }, {
+    "number" : 24,
+    "pokemonNumbers" : [ 17, 18, 64, 65, 66, 67, 193, 194, 195, 220, 221 ]
+  }, {
+    "number" : 78,
+    "pokemonNumbers" : [ 42, 43, 98, 99, 144, 145, 154, 155, 156, 180, 231, 304 ]
+  }, {
+    "number" : 23,
+    "pokemonNumbers" : [ 78, 79, 80, 81, 96, 97, 292, 349, 350, 365, 366, 367, 368, 370 ]
+  }, {
+    "number" : 18,
+    "pokemonNumbers" : [ 68, 69, 70, 71, 159, 160, 244, 245, 287, 288, 300, 317, 367, 368 ]
+  }, {
+    "number" : 71,
+    "pokemonNumbers" : [ 68, 69, 70, 71, 159, 162, 199, 287, 288, 289, 300, 317 ]
+  }, {
+    "number" : 30,
+    "pokemonNumbers" : [ 55, 56, 57, 60, 141, 142, 250, 251, 285, 304, 310, 311 ]
+  }, {
+    "number" : 60,
+    "pokemonNumbers" : [ 130, 131, 157, 158, 244, 245, 250, 251, 285, 286, 307, 308, 310, 311 ]
+  }, {
+    "number" : 43,
+    "pokemonNumbers" : [ 135, 136, 137, 141, 142, 143, 191, 192, 236, 237, 294, 327, 328, 335, 336 ]
+  }, {
+    "number" : 42,
+    "pokemonNumbers" : [ 42, 43, 98, 99, 102, 103, 156, 230, 231, 234, 235, 306 ]
+  }, {
+    "number" : 67,
+    "pokemonNumbers" : [ 42, 102, 103, 154, 156, 180, 197, 307, 308, 354, 355, 361 ]
+  }, {
+    "number" : 25,
+    "pokemonNumbers" : [ 46, 47, 194, 220, 221, 310, 311, 318, 319, 344, 348, 353 ]
+  }, {
+    "number" : 72,
+    "pokemonNumbers" : [ 18, 46, 47, 194, 198, 220, 221, 310, 311, 318, 319 ]
+  }, {
+    "number" : 69,
+    "pokemonNumbers" : [ 29, 30, 31, 32, 33, 45, 112, 201, 246, 247, 290, 291 ]
+  }, {
+    "number" : 70,
+    "pokemonNumbers" : [ 52, 53, 54, 126, 127, 128, 129, 189, 190, 202, 262, 263 ]
+  }, {
+    "number" : 84,
+    "pokemonNumbers" : [ 113, 114, 115, 118, 119, 178, 179, 246, 247, 298, 316, 371 ]
+  }, {
+    "number" : 12,
+    "pokemonNumbers" : [ 113, 118, 119, 179, 189, 190, 246, 247, 295, 348 ]
+  }, {
+    "number" : 45,
+    "pokemonNumbers" : [ 113, 114, 115, 118, 119, 178, 179, 246, 247, 298, 299, 316 ]
+  }, {
+    "number" : 51,
+    "pokemonNumbers" : [ 86, 87, 161, 162, 163, 168, 178, 179, 234, 235, 252, 253, 369, 383, 384, 385 ]
+  }, {
+    "number" : 83,
+    "pokemonNumbers" : [ 72, 74, 78, 79, 80, 86, 87, 161, 162, 163, 178, 179, 234, 235, 252, 253, 279, 358, 359, 361, 365, 366, 369, 370 ]
+  }, {
+    "number" : 14,
+    "pokemonNumbers" : [ 82, 83, 92, 93, 118, 216, 217, 297, 337, 364, 365, 366 ]
+  }, {
+    "number" : 68,
+    "pokemonNumbers" : [ 118, 119, 174, 175, 200, 241, 242, 243, 290, 291, 365, 366 ]
+  }, {
+    "number" : 19,
+    "pokemonNumbers" : [ 68, 69, 70, 71, 244, 245, 287, 288, 289, 300, 347 ]
+  }, {
+    "number" : 53,
+    "pokemonNumbers" : [ 68, 69, 70, 71, 159, 160, 245, 287, 300, 317, 378, 379, 380 ]
+  }, {
+    "number" : 33,
+    "pokemonNumbers" : [ 187, 188, 210, 211, 212, 213, 254, 255, 256, 257, 258, 259, 340, 341 ]
+  }, {
+    "number" : 62,
+    "pokemonNumbers" : [ 120, 122, 238, 239, 240, 257, 258, 259, 295, 301, 334, 340, 341 ]
+  }, {
+    "number" : 57,
+    "pokemonNumbers" : [ 64, 66, 193, 194, 310, 318, 372 ]
+  }, {
+    "number" : 73,
+    "pokemonNumbers" : [ 72, 73, 74, 79, 81, 203, 349, 350, 358, 359, 365, 366 ]
+  }, {
+    "number" : 56,
+    "pokemonNumbers" : [ 46, 47, 64, 65, 194, 220, 221, 310, 311, 344, 348, 353 ]
+  }, {
+    "number" : 77,
+    "pokemonNumbers" : [ 68, 69, 70, 71, 159, 160, 245, 287, 300, 317, 378, 379, 380 ]
+  }, {
+    "number" : 74,
+    "pokemonNumbers" : [ 120, 122, 185, 204, 210, 211, 212, 213, 238, 239, 240, 257, 258, 259 ]
+  }, {
+    "number" : 50,
+    "pokemonNumbers" : [ 120, 121, 122, 174, 175, 241, 242, 243, 290, 291, 365, 366 ]
+  }, {
+    "number" : 41,
+    "pokemonNumbers" : [ 132, 133, 134, 150, 151, 155, 180, 181, 220, 221, 307, 308 ]
+  }, {
+    "number" : 76,
+    "pokemonNumbers" : [ 98, 99, 148, 149, 154, 156, 234, 304, 354, 355, 356, 357 ]
+  }, {
+    "number" : 3,
+    "pokemonNumbers" : [ 86, 87, 168, 169, 170, 227, 234, 235, 252, 253, 264, 265 ]
+  }, {
+    "number" : 90,
+    "pokemonNumbers" : [ 10, 11, 12, 15, 86, 214, 215, 232, 233, 273, 274, 275, 276 ]
+  }, {
+    "number" : 37,
+    "pokemonNumbers" : [ 176, 321, 322, 323, 324, 325, 326, 346, 347, 389, 390, 391, 392, 393, 394 ]
+  }, {
+    "number" : 1,
+    "pokemonNumbers" : [ 107, 108, 109, 110, 138, 139, 140, 171, 172, 173, 222, 223, 224, 225 ]
+  }, {
+    "number" : 91,
+    "pokemonNumbers" : [ 42, 98, 99, 102, 103, 145, 154, 156, 180, 307, 308, 361 ]
+  }, {
+    "number" : 85,
+    "pokemonNumbers" : [ 118, 119, 182, 183, 189, 190, 226, 246, 247, 303, 330, 371 ]
+  }, {
+    "number" : 66,
+    "pokemonNumbers" : [ 373 ]
+  }, {
+    "number" : 2,
+    "pokemonNumbers" : [ 90, 91, 120, 121, 122, 208, 209, 267, 268, 269, 270, 271, 272, 277, 362, 363 ]
+  }, {
+    "number" : 35,
+    "pokemonNumbers" : [ 41, 44, 45, 103, 130, 131, 246, 247, 290, 291, 292, 293, 294 ]
+  }, {
+    "number" : 22,
+    "pokemonNumbers" : [ 75, 76, 77, 151, 279, 280, 292, 293, 349, 350, 365, 366 ]
+  }, {
+    "number" : 81,
+    "pokemonNumbers" : [ 94, 95, 123, 138, 139, 140, 141, 142, 143, 218, 219, 236, 237, 294, 298, 299, 320, 327, 328, 330, 331, 335, 336, 345 ]
+  }, {
+    "number" : 6,
+    "pokemonNumbers" : [ 124, 125, 135, 136, 141, 142, 191, 192, 305, 306, 338, 339 ]
+  }, {
+    "number" : 80,
+    "pokemonNumbers" : [ 68, 69, 70, 71, 159, 160, 162, 163, 244, 287, 288, 289, 300, 317 ]
+  }, {
+    "number" : 47,
+    "pokemonNumbers" : [ 124, 125, 191, 192, 236, 237, 294, 327, 328, 330, 331, 332, 335, 336 ]
+  } ]
+}
